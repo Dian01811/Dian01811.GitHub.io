@@ -3,7 +3,7 @@ layout: default
 title: Contact
 ---
 
-<img align="left" src="https://dian01811.github.io/files/stronghall.jpg" width="400">
+<img align="left" src="https://dian01811.github.io/files/stronghall.jpg" width="390">
 
 ## Email:
 dji2@vols.utk.edu
