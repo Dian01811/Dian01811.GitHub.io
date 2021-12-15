@@ -6,7 +6,7 @@ layout: default
         <tr>
             <td>
                 <!--左侧内容-->
-                ![](https://dian01811.github.io/files/photo.jpg)
+                ![Branching](https://dian01811.github.io/files/photo.jpg)
             </td>
             <td>
                 <!--右侧内容-->
