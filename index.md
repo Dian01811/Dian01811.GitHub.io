@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Branching](https://dian01811.github.io/files/photo.jpg)
+![Branching](https://dian01811.github.io/files/photo.jpg){width=40%}
 
 Dian Ji is currently a graduate student at the University of Tennessee, Knoxville in the department of Earth and Planetary Sciences. He got his Bachelor of Engineering in Resource Exploration Engineering from China University of Petroleum in Beijing.
 
