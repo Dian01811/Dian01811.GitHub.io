@@ -8,7 +8,7 @@ description: I love igneous petrology.
 
 [Ji and Dygert, Goldschmidt Conference (2021)](https://goldschmidtabstracts.info/abstracts/abstractView?doi=10.7185/gold2021.3219)
  
-<img align="right" src="https://dian01811.github.io/files/photo.jpg" width="400">
+<img align="right" src="https://dian01811.github.io/files/photo.jpg" width="300">
   
 <font size=4>&emsp;&emsp;We calculated REE and Eu distributions in lunar anorthosites according to recent fractional crystallization experiments and we find that crystalized plagioclase exhibit lager Eu anomalies than Apollo samples. Accoding to the numerical modeling, we suggest that subsolidus reequilibration after addition of a KREEP component reduces Eu anomalies and elevates Ce/Sm ratios, reproducing variations in the natural samples. Addition of a KREEP component may imply secondary magmatic processing of the lunar anorthosites, perhaps associated with Serial or Mg-suite Magmatism after a cumulate mantle overturn event.</font>
 
