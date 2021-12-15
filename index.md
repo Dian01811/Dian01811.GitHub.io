@@ -1,27 +1,14 @@
 ---
 layout: default
 ---
-<html>
-    <table style="margin-left: auto; margin-right: auto;">
-        <tr>
-            <td>
-                <!--左侧内容-->
-                ![Branching](https://dian01811.github.io/files/photo.jpg)
-            </td>
-            <td>
-                <!--右侧内容-->
-                右侧
-            </td>
-        </tr>
-    </table>
-</html>
-
-
-
-
-Dian Ji is currently a graduate student at the University of Tennessee, Knoxville in the department of Earth and Planetary Sciences. He got his Bachelor of Engineering in Resource Exploration Engineering from China University of Petroleum in Beijing.
+ ![Branching](https://dian01811.github.io/files/photo.jpg) Dian Ji is currently a graduate student at the University of Tennessee, Knoxville in the department of Earth and Planetary Sciences. He got his Bachelor of Engineering in Resource Exploration Engineering from China University of Petroleum in Beijing.
 
 Dian is interested in igneous petrology. His previous research involves exploring the petrogenesis of the Early Cretaceous adakities in Northeast China and the tectonic setting at that time by the distribution, petrological characteristics, major and trace elements, and geochronological and isotopic data of the adakites. Dian is now focusing on the Eu anomalies in lunar plagioclase by the numerical modeling to the published crystallization sequences and cumulate products of lunar magma ocean.
+
+
+
+
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
