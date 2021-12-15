@@ -4,6 +4,8 @@ title: Contact
 description: dji2@vols.utk.edu
 ---
 
+<img align="left" src="https://dian01811.github.io/files/stronghall.jpg" width="400">
+
 ##Email:
 dji2@vols.utk.edu
 
@@ -18,12 +20,12 @@ Knoxville, TN 37996
 522&523 Strong Hall
 
 ##Twitter:
-@DianJi2
+[@DianJi2](https://twitter.com/DianJi2)
 
 ##Research profiles:
-Researchgate
+[Researchgate](https://www.researchgate.net/profile/Dian-Ji)
 
 ##GitHub:
-GitHub
+[GitHub](https://github.com/Dian01811)
 
 [back](./)
