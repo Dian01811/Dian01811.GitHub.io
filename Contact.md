@@ -1,11 +1,29 @@
 ---
 layout: default
-title: Research
-description: I love igneous petrology.
+title: Contact
+description: dji2@vols.utk.edu
 ---
 
-## Welcome to another page
+##Email:
+dji2@vols.utk.edu
 
-_yay_
+##Mailing Address:
+Department of Earth and Planetary Sciences
+University of Tennessee, Knoxville
+1621 Cumberland Avenue
+Strong Hall
+Knoxville, TN 37996
+
+##Office:
+522&523 Strong Hall
+
+##Twitter:
+@DianJi2
+
+##Research profiles:
+Researchgate
+
+##GitHub:
+GitHub
 
 [back](./)
