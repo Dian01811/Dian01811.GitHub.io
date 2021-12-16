@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dian Ji
+title: Dian Ji (吉点)
 ---
 # Welcome
 
