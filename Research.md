@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Research
-description: Igneous Petrology and Geochemistry
+title: Dian Ji (吉点)
+description: Research
 ---
 
 # Eu anomalies in lunar anorthosites
