@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Contact
-description: dji2@vols.utk.edu
+title: Research
+description: Contact
 ---
 
-<img align="left" src="https://dian01811.github.io/files/stronghall.jpg" width="450">
-
+<img align="left" src="https://dian01811.github.io/files/stronghall.jpg" width="500">
+### E-mail:
+dji2@vols.utk.edu
 ### Mailing Address:
 Department of Earth and Planetary Sciences<br>University of Tennessee, Knoxville<br>1621 Cumberland Avenue<br>Strong Hall<br>Knoxville, TN 37996
 ### Office:
