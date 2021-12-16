@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Research
-description: Research Interests: Petrology and Geochemistry
+description: Petrology and Geochemistry
 ---
 
 # Eu anomalies in lunar anorthosites
