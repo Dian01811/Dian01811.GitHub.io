@@ -13,7 +13,6 @@ Department of Earth and Planetary Sciences<br>University of Tennessee, Knoxville
 ### Twitter:
 [@DianJi2](https://twitter.com/DianJi2)
 ### Research profiles:
-[Researchgate](https://www.researchgate.net/profile/Dian-Ji)
-[GitHub](https://github.com/Dian01811)
+[Researchgate](https://www.researchgate.net/profile/Dian-Ji)<br>[GitHub](https://github.com/Dian01811)
 
 [back](./)
