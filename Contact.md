@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Research
+title: Dian Ji (吉点)
 description: Contact
 ---
 
