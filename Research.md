@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Research
-description: Petrology and Geochemistry
+description: Igneous Petrology and Geochemistry
 ---
 
 # Eu anomalies in lunar anorthosites
