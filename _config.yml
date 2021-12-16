@@ -4,5 +4,4 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 url: Dian01811.GitHub.io
-plugins:
-  - jekyll-seo-tag
+
