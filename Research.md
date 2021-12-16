@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Research
-description: I love igneous petrology.
+description: “Cease to struggle and you cease to live.”
 ---
 
 # Eu anomalies in lunar anorthosites
