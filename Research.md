@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Research
-description: “Cease to struggle and you cease to live.”
+description: Research Interests: Petrology and Geochemistry
 ---
 
 # Eu anomalies in lunar anorthosites
