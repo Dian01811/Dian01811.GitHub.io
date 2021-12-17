@@ -2,7 +2,7 @@
 layout: default
 title: Dian Ji (吉点)
 ---
-# Welcome
+# <span style="color:blue">Welcome</span>
 
  <img align="right" src="https://dian01811.github.io/files/photo.jpg" width="400">
   
