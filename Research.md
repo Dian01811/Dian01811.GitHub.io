@@ -17,7 +17,7 @@ description: Research
 
 [Ji, Liu, Li, International Geology Review (2019)](https://www.tandfonline.com/doi/full/10.1080/00206814.2019.1697968)
 
-<img align="right" src="https://dian01811.github.io/files/adakite.jpg" width="400">
+<img align="right" src="https://dian01811.github.io/files/adakite.jpg" width="450">
   
 <font size=4>&emsp;&emsp;Large volumes of Early Cretaceous adakitic rocks crop out in northeast China. In this paper, we summarize their spatial-temporal distribution and geochemical characteristics, which indicate significant Phanerozoic crust growth in NE China. Based on their geochemistry, these adakitic rocks are mainly derived from partial melting of juvenile lower crust. We interpret the melting to have resulted from extension and associated delamination and we thus propose a new two-stage convergent bidirectional subduction model.</font>
 
