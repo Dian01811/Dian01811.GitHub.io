@@ -6,7 +6,7 @@ description: Research
 
 # <span style="color:black">Eu anomalies in lunar anorthosites</span>
 
-[Ji and Dygert, Goldschmidt Conference (2021)](https://goldschmidtabstracts.info/abstracts/abstractView?doi=10.7185/gold2021.3219)
+[**Ji**, Dygert, Goldschmidt Conference (2021)](https://goldschmidtabstracts.info/abstracts/abstractView?doi=10.7185/gold2021.3219)
  
 <img align="right" src="https://dian01811.github.io/files/Eu.jpg" width="350">
   
@@ -15,7 +15,7 @@ description: Research
 
 # <span style="color:black">The petrogenesis of early cretaceous adakitic rocks in Northeast China</span>
 
-[Ji, Liu, Li, International Geology Review (2019)](https://www.tandfonline.com/doi/full/10.1080/00206814.2019.1697968)
+[**Ji**, Liu, Li, International Geology Review (2019)](https://www.tandfonline.com/doi/full/10.1080/00206814.2019.1697968)
 
 <img align="right" src="https://dian01811.github.io/files/adakite.jpg" width="500">
   
