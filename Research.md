@@ -13,7 +13,7 @@ description: Research
 <font size=4>&emsp;&emsp;We calculated REE and Eu distributions in lunar anorthosites according to recent fractional crystallization experiments and we find that crystalized plagioclase exhibit lager Eu anomalies than Apollo samples. Accoding to the numerical modeling, we suggest that subsolidus reequilibration after addition of a KREEP component reduces Eu anomalies and elevates Ce/Sm ratios, reproducing variations in the natural samples. Addition of a KREEP component may imply secondary magmatic processing of the lunar anorthosites, perhaps associated with Serial or Mg-suite Magmatism after a cumulate mantle overturn event.</font>
 
 
-# <span style="color:black">The petrogenesis of early cretaceous adakitic rocks in Northeast China</span>
+# <span style="color:black">The petrogenesis of early Cretaceous adakitic rocks in Northeast China</span>
 
 [**Ji**, Liu, Li, International Geology Review (2019)](https://www.tandfonline.com/doi/full/10.1080/00206814.2019.1697968)
 
