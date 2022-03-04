@@ -14,5 +14,5 @@ Department of Earth and Planetary Sciences<br>University of Tennessee, Knoxville
 ### <span style="color:black">Twitter:</span>
 [@DianJi2](https://twitter.com/DianJi2)
 ### <span style="color:black">Research profiles:</span>
-[Researchgate](https://www.researchgate.net/profile/Dian-Ji)<br>[GitHub](https://github.com/Dian01811)
+[Researchgate](https://www.researchgate.net/profile/Dian-Ji)<br>[GitHub](https://github.com/Dian01811)<br>[ORCiD](https://orcid.org/0000-0001-7915-8465)
 
