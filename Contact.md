@@ -10,7 +10,7 @@ description: Contact
 ### <span style="color:black">Mailing Address:</span>
 Department of Earth and Planetary Sciences<br>University of Tennessee, Knoxville<br>1621 Cumberland Avenue<br>Strong Hall<br>Knoxville, TN 37996
 ### <span style="color:black">Office:</span>
-522&523 Strong Hall
+523 Strong Hall
 ### <span style="color:black">Twitter:</span>
 [@DianJi2](https://twitter.com/DianJi2)
 ### <span style="color:black">Research profiles:</span>
