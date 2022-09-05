@@ -12,7 +12,7 @@ description: Research
 
 # <span style="color:black">Eu anomalies in lunar anorthosites</span>
 
-[**Ji**, Dygert, Goldschmidt Conference (2021)](https://goldschmidtabstracts.info/abstracts/abstractView?doi=10.7185/gold2021.3219)
+[**Ji**, Dygert, Lunar and Planetary Science Conference (2022)](https://www.hou.usra.edu/meetings/lpsc2022/pdf/1229.pdf)
  
 <img align="right" src="https://dian01811.github.io/files/Eu.jpg" width="350"> 
   
