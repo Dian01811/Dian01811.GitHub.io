@@ -6,6 +6,8 @@ description: Research
 
 # <span style="color:black">Trace element partitioning between apatite and silicate melts</span>
  
+ [**Ji**, Dygert, Lunar and Planetary Science Conference (2023)](https://www.hou.usra.edu/meetings/lpsc2023/pdf/1255.pdf)
+ 
 <img align="right" src="https://dian01811.github.io/files/Apt_model.jpg" width="350"> 
   
 <font size=4>&emsp;&emsp;This project is aimed at understanding the partitioning behavior between apatite and silicate melts, and developing predictive models through a lens of high temperature and pressure experiments. We determine the effect of equilibrium temperature on the trace elements partitioning in apatite and analyze the partition coefficient between silicate melts and synthetic different end-member apatite (FlAp, OHAp and ClAp) to test the effect of X-site (F, OH, Cl) occupancy. We will build predictive models to calculate the partition coefficients of trace elements between apatite and silicate melts. In addition, a series of experiments with constant initial composition but different metal buffers in piston cylinder apparatus will be conducted to characterize the Eu anomaly of apatite under different oxygen fugacities.</font>
