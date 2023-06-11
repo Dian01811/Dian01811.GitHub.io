@@ -4,7 +4,7 @@ title: Dian Ji (吉点)
 description: Contact
 ---
 
-<img align="left" src="https://dian01811.github.io/files/stronghall.jpg" width="500">
+<img align="left" src="https://dian01811.github.io/files/stronghall.jpg" width="525">
 ### <span style="color:black">E-mail:</span>
 [dji2@vols.utk.edu](mailto:dji2@vols.utk.edu)
 ### <span style="color:black">Mailing Address:</span>
