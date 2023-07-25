@@ -6,7 +6,7 @@ description: Contact
 
 <img align="left" src="https://dian01811.github.io/files/stronghall.jpg" width="525">
 ### <span style="color:black">E-mail:</span>
-[dj56@rice.edu](mailto:dj56@rice.edu)</span>
+[dj56@rice.edu](mailto:dj56@rice.edu)<br>
 [dji2@vols.utk.edu](mailto:dji2@vols.utk.edu)
 ### <span style="color:black">Mailing Address:</span>
 Department of Earth and Planetary Sciences<br>University of Tennessee, Knoxville<br>1621 Cumberland Avenue<br>Strong Hall<br>Knoxville, TN 37996
