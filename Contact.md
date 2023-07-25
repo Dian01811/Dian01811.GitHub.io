@@ -6,12 +6,12 @@ description: Contact
 
 <img align="left" src="https://dian01811.github.io/files/stronghall.jpg" width="525">
 ### <span style="color:black">E-mail:</span>
-[dj56@rice.edu](mailto:dj56@rice.edu)<br>
+[dj56@rice.edu](mailto:dj56@rice.edu)
 [dji2@vols.utk.edu](mailto:dji2@vols.utk.edu)
 ### <span style="color:black">Mailing Address:</span>
-Department of Earth and Planetary Sciences<br>University of Tennessee, Knoxville<br>1621 Cumberland Avenue<br>Strong Hall<br>Knoxville, TN 37996
+Department of Earth, Environmental and Planetary Sciences<br>Rice University<br>6100 Main Street<br>Houston, TX 77005
 ### <span style="color:black">Office:</span>
-523 Strong Hall
+209 Keith-Wiess Geological Lab
 ### <span style="color:black">Twitter:</span>
 [@DianJi2](https://twitter.com/DianJi2)
 ### <span style="color:black">Research profiles:</span>
