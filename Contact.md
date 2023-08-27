@@ -15,5 +15,5 @@ Department of Earth, Environmental and Planetary Sciences<br>Rice University<br>
 ### <span style="color:black">Twitter:</span>
 [@DianJi2](https://twitter.com/DianJi2)
 ### <span style="color:black">Research profiles:</span>
-[Google Scholar](https://scholar.google.com/citations?user=F3-p3ZMAAAAJ&hl=en&oi=ao)<br>[Researchgate](https://www.researchgate.net/profile/Dian-Ji)<br>[GitHub](https://github.com/Dian01811)<br>[ORCiD](https://orcid.org/0000-0001-7915-8465)
+[Google Scholar](https://scholar.google.com/citations?user=stLWdjwAAAAJ&hl=en&oi=sra)<br>[Researchgate](https://www.researchgate.net/profile/Dian-Ji)<br>[GitHub](https://github.com/Dian01811)<br>[ORCiD](https://orcid.org/0000-0001-7915-8465)
 
