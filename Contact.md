@@ -11,7 +11,7 @@ description: Contact
 ### <span style="color:black">Mailing Address:</span>
 Department of Earth, Environmental and Planetary Sciences<br>Rice University<br>6100 Main Street<br>Houston, TX 77005
 ### <span style="color:black">Office:</span>
-209 Keith-Wiess Geological Lab
+222 Keith-Wiess Geological Lab
 ### <span style="color:black">Twitter:</span>
 [@DianJi2](https://twitter.com/DianJi2)
 ### <span style="color:black">Research profiles:</span>
