@@ -6,7 +6,7 @@ description: Research
 
 # <span style="color:black">Trace element partitioning between apatite and silicate melts</span>
  
- [**Ji**, Dygert, Lunar and Planetary Science Conference (2023)](https://www.hou.usra.edu/meetings/lpsc2023/pdf/1255.pdf)
+ [**Ji**, Dygert, Geochimica et Cosmochimica Acta (2023)](https://doi.org/10.1016/j.gca.2023.11.004)
  
 <img align="right" src="https://dian01811.github.io/files/Apt_model.jpg" width="350"> 
   
