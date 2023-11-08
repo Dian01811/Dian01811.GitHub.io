@@ -12,7 +12,7 @@ description: Contact
 Department of Earth, Environmental and Planetary Sciences<br>Rice University<br>6100 Main Street<br>Houston, TX 77005
 ### <span style="color:black">Office:</span>
 222 Keith-Wiess Geological Lab
-### <span style="color:black">Twitter:</span>
+### <span style="color:black">X (Twitter):</span>
 [@DianJi2](https://twitter.com/DianJi2)
 ### <span style="color:black">Research profiles:</span>
 [Google Scholar](https://scholar.google.com/citations?user=stLWdjwAAAAJ&hl=en&oi=sra)<br>[Researchgate](https://www.researchgate.net/profile/Dian-Ji)<br>[GitHub](https://github.com/Dian01811)<br>[ORCiD](https://orcid.org/0000-0001-7915-8465)
