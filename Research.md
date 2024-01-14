@@ -6,7 +6,7 @@ description: Research
 
 # <span style="color:black">Trace element partitioning between apatite and silicate melts</span>
  
- [**Ji**, Dygert, Geochimica et Cosmochimica Acta (2023)](https://doi.org/10.1016/j.gca.2023.11.004)
+ [**Ji**, Dygert, Geochimica et Cosmochimica Acta (2024)](https://doi.org/10.1016/j.gca.2023.11.004)
  
 <img align="right" src="https://dian01811.github.io/files/Apt_model.jpg" width="350"> 
   
