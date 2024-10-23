@@ -12,7 +12,7 @@ description: Research
   
 <font size=4>&emsp;&emsp;This project is aimed at understanding the partitioning behavior between apatite and silicate melts, and developing predictive models through a lens of high temperature and pressure experiments. We determine the effect of equilibrium temperature on the trace elements partitioning in apatite and analyze the partition coefficient between silicate melts and synthetic different end-member apatite (FlAp, OHAp and ClAp) to test the effect of X-site (F, OH, Cl) occupancy. We will build predictive models to calculate the partition coefficients of trace elements between apatite and silicate melts. In addition, a series of experiments with constant initial composition but different metal buffers in piston cylinder apparatus will be conducted to characterize the Eu anomaly of apatite under different oxygen fugacities.</font>
 
-# <span style="color:black">Eu anomalies in lunar anorthosites</span>
+# <span style="color:black">Serial processing of the lunar crust</span>
 
 [**Ji**, Dygert, Earth and Planetary Science Letters (2023)](https://doi.org/10.1016/j.epsl.2022.117958)
  
