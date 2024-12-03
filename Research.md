@@ -8,7 +8,7 @@ description: Research
  
  [**Ji**, Dasgupta, AGU Fall Meeting Abstracts (2024)](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1517917)
  
-<img align="right" src="https://dian01811.github.io/files/Apt_model.jpg" width="350"> 
+<img align="right" src="https://dian01811.github.io/files/SCSS.jpg" width="350"> 
   
 <font size=4>&emsp;&emsp;The sulfur budget in the lunar mantle is important in the geochemical evolution of the Moon. Early sulfur solubility experiments with lunar sample compositions suggested the lunar mantle is sulfide-absent. However, the existence of S-poor, Fe-rich, high metal/sulfur ratio sulfide, which may be stable under the low oxygen fugacities associated with the lunar mantle, could lower the sulfur concentrations at sulfide saturation (SCSS) dramatically, resulting in the residual mantle of the Apollo samples to remain saturated with sulfide. To add to the debate on the fate of sulfide in the lunar mantle, we present new SCSS experiments for the putative parental melts of young Chang’e-5 (CE-5) basalt. Based on our experimental results and previously published experiments, we developed a new thermodynamic SCSS model for the saturation of silicate melts with sulfides of variable S contents. Combining our experiments and model calculations, we found that the CE-5 mantle source was likely sulfide-absent. Compared with the mantle of Apollo basalts, the ~2 Gyrs lunar mantle has much lower S abundances, which may suggest sulfur extraction over the magmatic history of the Moon.</font>
 
