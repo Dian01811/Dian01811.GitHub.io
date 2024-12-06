@@ -110,6 +110,8 @@ a {
   text-align: center;
   background-color: $header-bg-color;
   background-image: url(https://dian01811.github.io/files/BS.jpg);
+  background-size: cover; 
+  background-position: center; 
 
   @include large {
     padding: 5rem 6rem;
