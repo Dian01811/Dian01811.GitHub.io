@@ -15,7 +15,7 @@ title: Dian Ji (吉点)
 
 <strong>Dec 16, 2024: Ji won the Spring 2025 Rice Space Institute Center for Planetary Origins to Habitability (CPO2H) graduate fellowships!</strong>
 
-<strong>Dec 13, 2024: Ji gave a poster presentation on deep sulfur cycle in the young lunar mantle at the AGU Fall Meeting.</strong>
+<strong>Dec 13, 2024: [Ji gave a poster presentation on deep sulfur cycle in the young lunar mantle at the AGU Fall Meeting](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1517917).</strong>
 
 <strong>Mar 12, 2024: Ji gave a talk presentation on a new europium in apatite-plagioclase oxybarometer at the Lunar and Planetary Science Conference.</strong>
 
