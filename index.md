@@ -21,7 +21,9 @@ title: Dian Ji (吉点)
 
 <strong>Nov 3,2023: [Ji’s paper on apatite-melt trace element partitioning was accepted for publication in <em>Geochimica et Cosmochimia Acta</em>](https://doi.org/10.1016/j.gca.2023.11.004)!</strong>
 
-<strong>Agu 15, 2023: Ji was awarded the Chair’s Fellowship by Department of Earth, Environmental and Planetary Sciences Rice University.</strong>
+<strong>Oct 13, 2023: Ji participated in a filed trip regarding igneous and metamorphic rocks in Valles Caldera, Los Alamos Surge Deposits, Bandelier National Monument, and Rio Grande Gorge.</strong>
+
+<strong>Agu 15, 2023: Ji was awarded the Chair’s Fellowship by Rice University Department of Earth, Environmental and Planetary Sciences.</strong>
 
 <strong>Agu 1, 2023: Ji moved on to the PhD program at Rice University.</strong> Bye, Tennessee!
 
@@ -37,9 +39,13 @@ title: Dian Ji (吉点)
 
 <strong>Dec 7, 2022: [Ji’s paper on lunar anorthositic crust was accepted in <em>Earth and Planetary Science Letters</em>](https://doi.org/10.1016/j.epsl.2022.117958)!</strong> 
 
+<strong>Sep 30, 2022: Ji participated in the Rio Grande Rift xenolith sampling expedition in New Mexico, collecting mantle and crustal xenoliths.</strong>
+
 <strong>May 5, 2022: Ji received the Jimmy Walls Colloquium Presentation Award by Department of Earth, Environmental, and Planetary Sciences, University of Tennessee.</strong>
 
 <strong>Mar 13, 2022: [Ji gave a talk presentation on lunar anorthositic crust at the Lunar and Planetary Science Conference](https://www.hou.usra.edu/meetings/lpsc2022/pdf/1229.pdf).</strong>
+
+<strong>Mar 13, 2022: Ji attended the McClung Blue Ridge Foothills Field Trip, studying the Appalachian foreland fold-thrust belt transition.</strong>
 
 <strong>Jul 6, 2021: [Ji gave a talk presentation at the 2021 Goldschmidt meeting](https://conf.goldschmidt.info/goldschmidt/2021/meetingapp.cgi/Paper/3219)!</strong>
 
