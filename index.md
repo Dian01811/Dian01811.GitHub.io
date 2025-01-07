@@ -15,9 +15,15 @@ title: Dian Ji (吉点)
 
 <strong>Dec 16, 2024: Ji won the Spring 2025 Rice Space Institute  Center for Planetary Origins to Habitability (CPO2H) graduate fellowships!</strong>
 
-<strong>Mar 12, 2024: Ji gave a talk presentation a new europium in apatite-plagioclase oxybarometer at the Lunar and Planetary Science Conference.</strong>
+<strong>Dec 16, 2024: Ji won the Spring 2025 Rice Space Institute  Center for Planetary Origins to Habitability (CPO2H) graduate fellowships!</strong>
 
-<strong>July 1, 2023: Ji was awarded the Chair’s Fellowship by Earth, Environmental and Planetary Sciences Department at Rice University</strong>
+<strong>Mar 12, 2024: Ji gave a poster presentation on deep sulfur cycle in the young lunar mantle at the AGU Fall Meeting.</strong>
+
+<strong>Nov 3,2023: Ji’s paper on apatite-melt trace element partitioning was accepted for publication in Geochimica et Cosmochimia Acta!</strong>
+
+<strong>Agu 1, 2023: Ji was awarded the Chair’s Fellowship by Earth, Environmental and Planetary Sciences Department at Rice University.</strong>
+
+<strong>July 1, 2023: Ji moved on to the PhD program at Rice University.</strong> Bye, Tennessee!
 
 
 
