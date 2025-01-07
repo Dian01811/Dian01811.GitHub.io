@@ -37,8 +37,14 @@ title: Dian Ji (吉点)
 
 <strong>Dec 7, 2022: Ji’s paper on lunar anorthositic crust was accepted in Earth and Planetary Science Letters!</strong> 
 
-<strong>Mar 13, 2023: Ji gave a talk presentation on lunar anorthositic crust at the Lunar and Planetary Science Conference.</strong>
+<strong>May 5, 2022: Ji received the Jimmy Walls Colloquium Presentation Award by Department of Earth, Environmental, and Planetary Sciences, University of Tennessee.</strong>
+
+<strong>Mar 13, 2022: Ji gave a talk presentation on lunar anorthositic crust at the Lunar and Planetary Science Conference.</strong>
 
 <strong>Jul 6, 2021: Ji gave a talk presentation at the 2021 Goldschmidt meeting!</strong>
 
-<strong>Jun 1, 2021: Ji arrived in Knoxville and began his graduate life!</strong> 
+<strong>Jun 1, 2021: Ji arrived in Knoxville to began his graduate adventure!</strong> 
+
+<strong>Oct 19, 2020: Ji was awarded the Li Siguang Outstanding Student Award!</strong> This is the highest undergraduate geoscience award in China.
+
+<strong>Nov 24, 2019: Ji ’s paper on Northeast China adakite was accepted in International Geology Review.</strong>
