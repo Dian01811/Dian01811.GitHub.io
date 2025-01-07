@@ -37,7 +37,7 @@ title: Dian Ji (吉点)
 
 <strong>May 3, 2023: Ji was awarded a [MSA grant in Mineralogy-Petrology Research](https://msaweb.org/mineralogy-petrology-grant/)!</strong>
 
-<strong>Mar 15, 2023: In the PhD program application, Ji received offers from all applied programs</strong>, which were Caltech, University of Chicago, University of Michigan, Rice University, UT Austin, and University of Minnesota!
+<strong>Mar 15, 2023: In the PhD program application, Ji received offers of admission from all applied programs</strong>, which were Caltech, University of Chicago, University of Michigan, Rice University, UT Austin, and University of Minnesota!
 
 <strong>Mar 13, 2023: [Ji gave a talk presentation on apatite-melt trace element partitioning at the Lunar and Planetary Science Conference](https://www.hou.usra.edu/meetings/lpsc2023/pdf/1255.pdf).</strong>
 
