@@ -31,7 +31,7 @@ description: Research
 
 # <span style="color:black">The petrogenesis of early Cretaceous adakitic rocks in Northeast China</span>
 
-[**Ji**, Liu, Li, International Geology Review (2020)](https://www.tandfonline.com/doi/full/10.1080/00206814.2019.1697968)
+[**Ji**, Liu, Li, International Geology Review (2020)](https://doi.org/10.1080/00206814.2019.1697968)
 
 <img align="right" src="https://dian01811.github.io/files/adakite.jpg" width="500">
   
