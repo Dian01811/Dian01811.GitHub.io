@@ -23,9 +23,9 @@ title: Dian Ji (吉点)
 
 <strong>Mar 12, 2024: [Ji gave a talk presentation on a new europium in apatite-plagioclase oxybarometer at the Lunar and Planetary Science Conference](https://www.hou.usra.edu/meetings/lpsc2024/pdf/2419.pdf).</strong>
 
-<strong>Nov 3,2023: [Ji’s paper on apatite-melt trace element partitioning was accepted for publication in <em>Geochimica et Cosmochimia Acta</em>](https://doi.org/10.1016/j.gca.2023.11.004)!</strong>
+<strong>Nov 3, 2023: [Ji’s paper on apatite-melt trace element partitioning was accepted for publication in <em>Geochimica et Cosmochimia Acta</em>](https://doi.org/10.1016/j.gca.2023.11.004)!</strong>
 
-<strong>Oct 13, 2023: Ji participated in a filed trip regarding igneous and metamorphic rocks in Valles Caldera, Los Alamos Surge Deposits, Bandelier National Monument, and Rio Grande Gorge.</strong>
+<strong>Oct 13, 2023: Ji participated in a field trip regarding igneous and metamorphic rocks in Valles Caldera, Los Alamos Surge Deposits, Bandelier National Monument, and Rio Grande Gorge.</strong>
 
 <strong>Agu 15, 2023: Ji was awarded the Chair’s Fellowship by Rice University Department of Earth, Environmental and Planetary Sciences.</strong>
 
@@ -35,7 +35,7 @@ title: Dian Ji (吉点)
 
 <strong>May 4, 2023: Ji was awarded the Virginia & James Bibee Graduate Student Professional Promise Award and the Excellence in Teaching by GTA’s Award by Department of Earth, Environmental, and Planetary Sciences, University of Tennessee.</strong>
 
-<strong>May 3, 2023: Ji was awarded a [MSA grant in in Mineralogy-Petrology Research](https://msaweb.org/mineralogy-petrology-grant/)!</strong>
+<strong>May 3, 2023: Ji was awarded a [MSA grant in Mineralogy-Petrology Research](https://msaweb.org/mineralogy-petrology-grant/)!</strong>
 
 <strong>Mar 15, 2023: In the PhD program application, Ji received offers from all applied programs</strong>, which were Caltech, University of Chicago, University of Michigan, Rice University, UT Austin, and University of Minnesota!
 
@@ -45,7 +45,7 @@ title: Dian Ji (吉点)
 
 <strong>Sep 30, 2022: Ji participated in the Rio Grande Rift xenolith sampling expedition in New Mexico, collecting mantle and crustal xenoliths.</strong>
 
-<strong>May 5, 2022: Ji received the Jimmy Walls Colloquium Presentation Award by Department of Earth, Environmental, and Planetary Sciences, University of Tennessee.</strong>
+<strong>May 5, 2022: Ji received the Jimmy Walls Colloquium Presentation Award from Department of Earth, Environmental, and Planetary Sciences, University of Tennessee.</strong>
 
 <strong>Mar 13, 2022: [Ji gave a talk presentation on lunar anorthositic crust at the Lunar and Planetary Science Conference](https://www.hou.usra.edu/meetings/lpsc2022/pdf/1229.pdf).</strong>
 
@@ -53,7 +53,7 @@ title: Dian Ji (吉点)
 
 <strong>Jul 6, 2021: [Ji gave a talk presentation at the 2021 Goldschmidt meeting](https://conf.goldschmidt.info/goldschmidt/2021/meetingapp.cgi/Paper/3219)!</strong>
 
-<strong>Jun 1, 2021: Ji arrived in Knoxville to began his graduate adventure!</strong> 
+<strong>Jun 1, 2021: Ji arrived in Knoxville to begin his graduate adventure!</strong> 
 
 <strong>Oct 19, 2020: Ji was awarded the Li Siguang Outstanding Student Award!</strong> This is the highest undergraduate geoscience award in China.
 
