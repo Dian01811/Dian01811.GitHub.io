@@ -17,7 +17,7 @@ title: Dian Ji (吉点)
 
 <strong>Dec 13, 2024: [Ji gave a poster presentation on deep sulfur cycle in the young lunar mantle at the AGU Fall Meeting](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1517917).</strong>
 
-<strong>Mar 12, 2024: Ji gave a talk presentation on a new europium in apatite-plagioclase oxybarometer at the Lunar and Planetary Science Conference.</strong>
+<strong>Mar 12, 2024: [Ji gave a talk presentation on a new europium in apatite-plagioclase oxybarometer at the Lunar and Planetary Science Conference](https://www.hou.usra.edu/meetings/lpsc2024/pdf/2419.pdf).</strong>
 
 <strong>Nov 3,2023: [Ji’s paper on apatite-melt trace element partitioning was accepted for publication in <em>Geochimica et Cosmochimia Acta</em>](https://doi.org/10.1016/j.gca.2023.11.004)!</strong>
 
@@ -33,15 +33,15 @@ title: Dian Ji (吉点)
 
 <strong>Mar 15, 2023: In the PhD program application, Ji received offers from all applied programs</strong>, which were Caltech, University of Chicago, University of Michigan, Rice University, UT Austin, and University of Minnesota!
 
-<strong>Mar 13, 2023: Ji gave a talk presentation on apatite-melt trace element partitioning at the Lunar and Planetary Science Conference.</strong>
+<strong>Mar 13, 2023: [Ji gave a talk presentation on apatite-melt trace element partitioning at the Lunar and Planetary Science Conference](https://www.hou.usra.edu/meetings/lpsc2023/pdf/1255.pdf).</strong>
 
 <strong>Dec 7, 2022: [Ji’s paper on lunar anorthositic crust was accepted in <em>Earth and Planetary Science Letters</em>](https://doi.org/10.1016/j.epsl.2022.117958)!</strong> 
 
 <strong>May 5, 2022: Ji received the Jimmy Walls Colloquium Presentation Award by Department of Earth, Environmental, and Planetary Sciences, University of Tennessee.</strong>
 
-<strong>Mar 13, 2022: Ji gave a talk presentation on lunar anorthositic crust at the Lunar and Planetary Science Conference.</strong>
+<strong>Mar 13, 2022: [Ji gave a talk presentation on lunar anorthositic crust at the Lunar and Planetary Science Conference](https://www.hou.usra.edu/meetings/lpsc2022/pdf/1229.pdf).</strong>
 
-<strong>Jul 6, 2021: Ji gave a talk presentation at the 2021 Goldschmidt meeting!</strong>
+<strong>Jul 6, 2021: [Ji gave a talk presentation at the 2021 Goldschmidt meeting](https://conf.goldschmidt.info/goldschmidt/2021/meetingapp.cgi/Paper/3219)!</strong>
 
 <strong>Jun 1, 2021: Ji arrived in Knoxville to began his graduate adventure!</strong> 
 
