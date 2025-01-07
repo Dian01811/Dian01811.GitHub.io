@@ -21,7 +21,7 @@ title: Dian Ji (吉点)
 
 <strong>Apr 3, 2024: Ji passed his written Preliminary Exam!</strong>
 
-<strong>Mar 12, 2024: [Ji gave a talk presentation on a new europium in apatite-plagioclase oxybarometer at the Lunar and Planetary Science Conference](https://www.hou.usra.edu/meetings/lpsc2024/pdf/2419.pdf).</strong>
+<strong>Mar 12, 2024: [Ji gave a talk presentation on a new europium in apatite-plagioclase oxybarometer at the Lunar and Planetary Science Conference](https://www.hou.usra.edu/meetings/lpsc2024/pdf/1240.pdf).</strong>
 
 <strong>Nov 3, 2023: [Ji’s paper on apatite-melt trace element partitioning was accepted for publication in <em>Geochimica et Cosmochimia Acta</em>](https://doi.org/10.1016/j.gca.2023.11.004)!</strong>
 
