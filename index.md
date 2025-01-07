@@ -15,15 +15,30 @@ title: Dian Ji (吉点)
 
 <strong>Dec 16, 2024: Ji won the Spring 2025 Rice Space Institute  Center for Planetary Origins to Habitability (CPO2H) graduate fellowships!</strong>
 
-<strong>Dec 16, 2024: Ji won the Spring 2025 Rice Space Institute  Center for Planetary Origins to Habitability (CPO2H) graduate fellowships!</strong>
+<strong>Dec 13, 2024: Ji gave a poster presentation on deep sulfur cycle in the young lunar mantle at the AGU Fall Meeting.</strong>
 
-<strong>Mar 12, 2024: Ji gave a poster presentation on deep sulfur cycle in the young lunar mantle at the AGU Fall Meeting.</strong>
+<strong>Mar 12, 2024: Ji gave a talk presentation on a new europium in apatite-plagioclase oxybarometer at the Lunar and Planetary Science Conference.</strong>
 
 <strong>Nov 3,2023: Ji’s paper on apatite-melt trace element partitioning was accepted for publication in Geochimica et Cosmochimia Acta!</strong>
 
-<strong>Agu 1, 2023: Ji was awarded the Chair’s Fellowship by Earth, Environmental and Planetary Sciences Department at Rice University.</strong>
+<strong>Agu 15, 2023: Ji was awarded the Chair’s Fellowship by Department of Earth, Environmental and Planetary Sciences Rice University.</strong>
 
-<strong>July 1, 2023: Ji moved on to the PhD program at Rice University.</strong> Bye, Tennessee!
+<strong>Agu 1, 2023: Ji moved on to the PhD program at Rice University.</strong> Bye, Tennessee!
 
+<strong>July 6, 2023: Ji defended his MS Thesis!</strong>
 
+<strong>May 4, 2023:Ji was awarded the Virginia & James Bibee Graduate Student Professional Promise Award and the Excellence in Teaching by GTA’s Award by Department of Earth, Environmental, and Planetary Sciences, University of Tennessee.</strong>
 
+<strong>May 3, 2023: Ji was awarded a MSA grant in in Mineralogy-Petrology Research!</strong>
+
+<strong>Mar 15, 2023: In the PhD program application, Ji received offers from all the applied programs</strong>, which were Caltech, University of Chicago, University of Michigan, Rice University, UT Austin, and University of Minnesota!
+
+<strong>Mar 13, 2023: Ji gave a talk presentation on apatite-melt trace element partitioning at the Lunar and Planetary Science Conference.</strong>
+
+<strong>Dec 7, 2022: Ji’s paper on lunar anorthositic crust was accepted in Earth and Planetary Science Letters!</strong> 
+
+<strong>Mar 13, 2023: Ji gave a talk presentation on lunar anorthositic crust at the Lunar and Planetary Science Conference.</strong>
+
+<strong>Jul 6, 2021: Ji gave a talk presentation at the 2021 Goldschmidt meeting!</strong>
+
+<strong>Jun 1, 2021: Ji arrived in Knoxville and began his graduate life!</strong> 
