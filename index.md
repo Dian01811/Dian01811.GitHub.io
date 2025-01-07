@@ -27,7 +27,7 @@ title: Dian Ji (吉点)
 
 <strong>July 6, 2023: Ji defended his MS Thesis!</strong>
 
-<strong>May 4, 2023:Ji was awarded the Virginia & James Bibee Graduate Student Professional Promise Award and the Excellence in Teaching by GTA’s Award by Department of Earth, Environmental, and Planetary Sciences, University of Tennessee.</strong>
+<strong>May 4, 2023: Ji was awarded the Virginia & James Bibee Graduate Student Professional Promise Award and the Excellence in Teaching by GTA’s Award by Department of Earth, Environmental, and Planetary Sciences, University of Tennessee.</strong>
 
 <strong>May 3, 2023: Ji was awarded a [MSA grant in in Mineralogy-Petrology Research](https://msaweb.org/mineralogy-petrology-grant/)!</strong>
 
