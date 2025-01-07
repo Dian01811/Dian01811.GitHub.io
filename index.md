@@ -13,7 +13,7 @@ title: Dian Ji (吉点)
 
 <font size=5 color="black"><strong>News</strong></font>
 
-<strong>Dec 16, 2024: Ji won the Spring 2025 Rice Space Institute  Center for Planetary Origins to Habitability (CPO2H) graduate fellowships!</strong>
+<strong>Dec 16, 2024: Ji won the Spring 2025 Rice Space Institute Center for Planetary Origins to Habitability (CPO2H) graduate fellowships!</strong>
 
 <strong>Dec 13, 2024: Ji gave a poster presentation on deep sulfur cycle in the young lunar mantle at the AGU Fall Meeting.</strong>
 
@@ -47,4 +47,6 @@ title: Dian Ji (吉点)
 
 <strong>Oct 19, 2020: Ji was awarded the Li Siguang Outstanding Student Award!</strong> This is the highest undergraduate geoscience award in China.
 
-<strong>Nov 24, 2019: Ji ’s paper on Northeast China adakite was accepted in <em>International Geology Review</em>.</strong>
+<strong>Nov 24, 2019: Ji’s paper on Northeast China adakite was accepted in <em>International Geology Review</em>.</strong>
+
+<strong>Jul 1, 2019: Ji will be a visiting scholar at the University of Texas at Dallas working with Dr. Robert J. Stern for two months!</strong>
