@@ -10,6 +10,14 @@ title: Dian Ji (吉点)
 &emsp;&emsp;Outside of research, I go fishing at least once a week. Driving around in search of high-quality fishing spots and reservoirs to catch those strong bass, skipjack, catfish, trout and bluegill is my greatest interest.
 
 
+
 <font size=5 color="black"><strong>News</strong></font>
 
-<strong>Dec 16th, 2024: Ji won the Spring 2025 Rice Space Institute  Center for Planetary Origins to Habitability (CPO2H) graduate fellowships!</strong>
+<strong>Dec 16, 2024: Ji won the Spring 2025 Rice Space Institute  Center for Planetary Origins to Habitability (CPO2H) graduate fellowships!</strong>
+
+<strong>Mar 12, 2024: Ji gave a talk presentation a new europium in apatite-plagioclase oxybarometer at the Lunar and Planetary Science Conference.</strong>
+
+<strong>July 1, 2023: Ji was awarded the Chair’s Fellowship by Earth, Environmental and Planetary Sciences Department at Rice University</strong>
+
+
+
