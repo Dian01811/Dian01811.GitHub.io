@@ -19,7 +19,7 @@ title: Dian Ji (吉点)
 
 <strong>Mar 12, 2024: Ji gave a talk presentation on a new europium in apatite-plagioclase oxybarometer at the Lunar and Planetary Science Conference.</strong>
 
-<strong>Nov 3,2023: Ji’s paper on apatite-melt trace element partitioning was accepted for publication in Geochimica et Cosmochimia Acta!</strong>
+<strong>Nov 3,2023: Ji’s paper on apatite-melt trace element partitioning was accepted for publication in <em>Geochimica et Cosmochimia Acta</em>!</strong>
 
 <strong>Agu 15, 2023: Ji was awarded the Chair’s Fellowship by Department of Earth, Environmental and Planetary Sciences Rice University.</strong>
 
@@ -35,7 +35,7 @@ title: Dian Ji (吉点)
 
 <strong>Mar 13, 2023: Ji gave a talk presentation on apatite-melt trace element partitioning at the Lunar and Planetary Science Conference.</strong>
 
-<strong>Dec 7, 2022: Ji’s paper on lunar anorthositic crust was accepted in Earth and Planetary Science Letters!</strong> 
+<strong>Dec 7, 2022: Ji’s paper on lunar anorthositic crust was accepted in <em>Earth and Planetary Science Letters</em>!</strong> 
 
 <strong>May 5, 2022: Ji received the Jimmy Walls Colloquium Presentation Award by Department of Earth, Environmental, and Planetary Sciences, University of Tennessee.</strong>
 
@@ -47,4 +47,4 @@ title: Dian Ji (吉点)
 
 <strong>Oct 19, 2020: Ji was awarded the Li Siguang Outstanding Student Award!</strong> This is the highest undergraduate geoscience award in China.
 
-<strong>Nov 24, 2019: Ji ’s paper on Northeast China adakite was accepted in International Geology Review.</strong>
+<strong>Nov 24, 2019: Ji ’s paper on Northeast China adakite was accepted in <em>International Geology Review</em>.</strong>
