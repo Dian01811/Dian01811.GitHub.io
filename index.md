@@ -10,4 +10,4 @@ title: Dian Ji (吉点)
 &emsp;&emsp;Outside of research, I go fishing at least once a week. Driving around in search of high-quality fishing spots and reservoirs to catch those strong bass, skipjack, catfish, trout and bluegill is my greatest interest.
 
 
-<font size=10><strong>News</strong></font>
+<font size=5 color="black"><strong>News</strong></font>
