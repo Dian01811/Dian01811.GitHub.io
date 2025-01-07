@@ -11,3 +11,5 @@ title: Dian Ji (吉点)
 
 
 <font size=5 color="black"><strong>News</strong></font>
+
+Dec-16-2024: Ji won the Spring 2025 Rice Space Institute  Center for Planetary Origins to Habitability (CPO2H) graduate fellowships!
