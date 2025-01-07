@@ -31,7 +31,7 @@ title: Dian Ji (吉点)
 
 <strong>Agu 1, 2023: Ji moved on to the PhD program at Rice University.</strong> Bye, Tennessee!
 
-<strong>July 6, 2023: Ji defended his MS Thesis!</strong>
+<strong>Jul 6, 2023: Ji defended his MS Thesis!</strong>
 
 <strong>May 4, 2023: Ji was awarded the Virginia & James Bibee Graduate Student Professional Promise Award and the Excellence in Teaching by GTA’s Award by Department of Earth, Environmental, and Planetary Sciences, University of Tennessee.</strong>
 
