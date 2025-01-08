@@ -6,19 +6,19 @@ title: Dian Ji (吉点)
 # <span style="color:black">Welcome</span>
 
 <div class="carousel" style="float: right;">
-  <div class="carousel-images" id="carouselImages">  
+  <div class="carousel-images" id="carouselImages">
     <div class="carousel-item">
-      <div class="image-title">Large skipjack fish caught in the Tennessee River</div>
-    <img src="https://dian01811.github.io/files/photo2.JPG" alt="Image 1">
-        </div>
-    <div class="carousel-item">
-    <div class="image-title">Talk presentation at Lunar and Planetary Science Conference</div>
-    <img src="https://dian01811.github.io/files/LPSC.JPG" alt="Image 2">
+      <div class="image-title">Image 1 Title</div>
+      <img src="https://dian01811.github.io/files/photo2.JPG" alt="Image 1">
     </div>
-  <div class="carousel-item">
-  <div class="image-title">Field trip in North Carolina</div>
-    <img src="https://dian01811.github.io/files/field trip.jpg" alt="Image 3">
-  </div>
+    <div class="carousel-item">
+      <div class="image-title">Image 2 Title</div>
+      <img src="https://dian01811.github.io/files/LPSC.JPG" alt="Image 2">
+    </div>
+    <div class="carousel-item">
+      <div class="image-title">Image 3 Title</div>
+      <img src="https://dian01811.github.io/files/field trip.jpg" alt="Image 3">
+    </div>
   </div>
   <div class="carousel-buttons">
     <button class="carousel-button" id="prevButton">◀</button>
@@ -28,24 +28,24 @@ title: Dian Ji (吉点)
 
 <script>
   const carouselImages = document.getElementById('carouselImages');
-  const images = document.querySelectorAll('.carousel-images img');
+  const items = document.querySelectorAll('.carousel-item');
   const prevButton = document.getElementById('prevButton');
   const nextButton = document.getElementById('nextButton');
 
   let index = 0;
 
   function showImage(index) {
-    const width = images[0].clientWidth;
+    const width = items[0].clientWidth;
     carouselImages.style.transform = `translateX(${-index * width}px)`;
   }
 
   function nextImage() {
-    index = (index + 1) % images.length;
+    index = (index + 1) % items.length;
     showImage(index);
   }
 
   function prevImage() {
-    index = (index - 1 + images.length) % images.length;
+    index = (index - 1 + items.length) % items.length;
     showImage(index);
   }
 
@@ -60,7 +60,7 @@ title: Dian Ji (吉点)
   .carousel {
     position: relative;
     width: 350px;
-    margin: 20px auto;
+    margin: 20px;
     overflow: hidden;
     border: 2px solid #ddd;
     border-radius: 10px;
@@ -71,12 +71,17 @@ title: Dian Ji (吉点)
     transition: transform 0.5s ease-in-out;
   }
 
-  .carousel-images img {
+  .carousel-item {
+    position: relative;
+    width: 100%;
+  }
+
+  .carousel-item img {
     width: 100%;
     object-fit: cover;
   }
 
-.image-title {
+  .image-title {
     position: absolute;
     top: 10px;
     left: 50%;
@@ -89,7 +94,7 @@ title: Dian Ji (吉点)
     z-index: 10;
     text-align: center;
   }
-  
+
   .carousel-buttons {
     position: absolute;
     top: 50%;
