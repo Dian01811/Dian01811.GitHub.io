@@ -8,7 +8,7 @@ title: Dian Ji (吉点)
 <div class="carousel" style="float: right;">
   <div class="carousel-images" id="carouselImages">
     <div class="carousel-item">
-      <div class="image-caption">Image 1: Large skipjack fish caught in the Tennessee River</div>
+      <div class="image-title">Image 1: Large skipjack fish caught in the Tennessee River</div>
     <img src="https://dian01811.github.io/files/photo.jpg" alt="Image 1">
         </div>
     <img src="https://dian01811.github.io/files/LPSC.JPG" alt="Image 2">
@@ -70,6 +70,20 @@ title: Dian Ji (吉点)
     object-fit: cover;
   }
 
+.image-title {
+    position: absolute;
+    top: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 14px;
+    z-index: 10;
+    text-align: center;
+  }
+  
   .carousel-buttons {
     position: absolute;
     top: 50%;
