@@ -53,7 +53,7 @@ title: Dian Ji (吉点)
   prevButton.addEventListener('click', prevImage);
 
 
-  setInterval(nextImage, 3000);
+  setInterval(nextImage, 5000);
 </script>
 
 <style>
