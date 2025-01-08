@@ -9,7 +9,7 @@ title: Dian Ji (吉点)
   <div class="carousel-images" id="carouselImages">
     <img src="https://dian01811.github.io/files/photo.jpg" alt="Image 1">
     <img src="https://dian01811.github.io/files/building-2.jpg" alt="Image 2">
-    <img src="https://https://dian01811.github.io/files/SCSS.jpg" alt="Image 3">
+    <img src="https://dian01811.github.io/files/Eu.jpg" alt="Image 3">
   </div>
   <div class="carousel-buttons">
     <button class="carousel-button" id="prevButton">◀</button>
