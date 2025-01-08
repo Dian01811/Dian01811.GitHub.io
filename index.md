@@ -52,7 +52,7 @@ title: Dian Ji (吉点)
   nextButton.addEventListener('click', nextImage);
   prevButton.addEventListener('click', prevImage);
 
-  // 自动轮播
+
   setInterval(nextImage, 3000);
 </script>
 
@@ -69,17 +69,19 @@ title: Dian Ji (吉点)
   .carousel-images {
     display: flex;
     transition: transform 0.5s ease-in-out;
-    width: 100%; /* 确保容器宽度适配 */
+    width: 100%; 
   }
 
   .carousel-item {
     position: relative;
-    flex: 0 0 100%; /* 每张图片占据整个容器宽度 */
+    flex: 0 0 100%; 
     width: 100%;
+    height: 100%;
   }
 
   .carousel-item img {
     width: 100%;
+    height: 100%;
     object-fit: cover;
   }
 
