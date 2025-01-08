@@ -4,7 +4,91 @@ title: Dian Ji (吉点)
 ---
 
 # <span style="color:black">Welcome</span>
-<img align="right" src="https://dian01811.github.io/files/photo.jpg" width="350">
+
+<div class="carousel">
+  <div class="carousel-images" id="carouselImages">
+    <img src="https://dian01811.github.io/files/photo.jpg" alt="Image 1">
+    <img src="https://dian01811.github.io/files/building-2.jpg" alt="Image 2">
+    <img src="https://https://dian01811.github.io/files/SCSS.jpg" alt="Image 3">
+  </div>
+  <div class="carousel-buttons">
+    <button class="carousel-button" id="prevButton">◀</button>
+    <button class="carousel-button" id="nextButton">▶</button>
+  </div>
+</div>
+
+<script>
+  const carouselImages = document.getElementById('carouselImages');
+  const images = document.querySelectorAll('.carousel-images img');
+  const prevButton = document.getElementById('prevButton');
+  const nextButton = document.getElementById('nextButton');
+
+  let index = 0;
+
+  function showImage(index) {
+    const width = images[0].clientWidth;
+    carouselImages.style.transform = `translateX(${-index * width}px)`;
+  }
+
+  function nextImage() {
+    index = (index + 1) % images.length;
+    showImage(index);
+  }
+
+  function prevImage() {
+    index = (index - 1 + images.length) % images.length;
+    showImage(index);
+  }
+
+  nextButton.addEventListener('click', nextImage);
+  prevButton.addEventListener('click', prevImage);
+
+  // 自动轮播
+  setInterval(nextImage, 3000);
+</script>
+
+<style>
+  .carousel {
+    position: relative;
+    width: 350px;
+    margin: 20px auto;
+    overflow: hidden;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+  }
+
+  .carousel-images {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+  }
+
+  .carousel-images img {
+    width: 100%;
+    object-fit: cover;
+  }
+
+  .carousel-buttons {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    transform: translateY(-50%);
+  }
+
+  .carousel-button {
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+  .carousel-button:hover {
+    background: rgba(0, 0, 0, 0.8);
+  }
+</style>
   
 &emsp;&emsp;I am currently a PhD student in the Department of Earth, Environmental and Planetary Sciences of Rice University, working with [Dr. Rajdeep Dasgupta](https://www.dasgupta.rice.edu). I got my Master's degree in Geology from University of Tennessee, Knoxville with [Dr. Nicholas Dygert](https://dygert.utk.edu), and my Bachelor of Engineering in Resource Exploration Engineering from China University of Petroleum in Beijing.<br>&emsp;&emsp;I am interested in experimental petrology and igneous geochemistry. My previous research involved: [1) conducting apatite-melt trace element partitioning experiments, and developing temperature and composition-dependent predictive partitioning model as well as Eu-in-apatite oxybarometers](https://dian01811.github.io/files/Ji_GCA_2024.pdf), [2) physical evolution of the lunar anorthositic crust and cumulate mantle inferred from trace element geochemical modeling](https://dian01811.github.io/files/Ji_EPSL_2023.pdf), and [3) exploring the petrogenesis of the early Cretaceous adakities in northeast China by their distribution, petrological, geochronological and isotopic characteristics](https://dian01811.github.io/files/Ji_IGR_2020.pdf). I am now focusing on high temperature and pressure experiments on sulfide solubility of young lunar basalts.<br>
 &emsp;&emsp;Outside of research, I go fishing at least once a week. Driving around in search of high-quality fishing spots and reservoirs to catch those strong bass, skipjack, catfish, trout and bluegill is my greatest interest.
