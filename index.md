@@ -69,10 +69,12 @@ title: Dian Ji (吉点)
   .carousel-images {
     display: flex;
     transition: transform 0.5s ease-in-out;
+    width: 100%; /* 确保容器宽度适配 */
   }
 
   .carousel-item {
     position: relative;
+    flex: 0 0 100%; /* 每张图片占据整个容器宽度 */
     width: 100%;
   }
 
