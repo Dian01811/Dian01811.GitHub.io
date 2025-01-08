@@ -7,7 +7,10 @@ title: Dian Ji (吉点)
 
 <div class="carousel" style="float: right;">
   <div class="carousel-images" id="carouselImages">
+    <div class="carousel-item">
+      <div class="image-caption">Image 1: Large skipjack fish caught in the Tennessee River</div>
     <img src="https://dian01811.github.io/files/photo.jpg" alt="Image 1">
+        </div>
     <img src="https://dian01811.github.io/files/LPSC.JPG" alt="Image 2">
     <img src="https://dian01811.github.io/files/field trip.jpg" alt="Image 3">
   </div>
