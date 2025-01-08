@@ -5,7 +5,7 @@ title: Dian Ji (吉点)
 
 # <span style="color:black">Welcome</span>
 
-<div class="carousel">
+<div class="carousel" style="float: right;">
   <div class="carousel-images" id="carouselImages">
     <img src="https://dian01811.github.io/files/photo.jpg" alt="Image 1">
     <img src="https://dian01811.github.io/files/building-2.jpg" alt="Image 2">
