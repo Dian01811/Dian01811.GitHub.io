@@ -60,6 +60,7 @@ title: Dian Ji (吉点)
   .carousel {
     position: relative;
     width: 350px;
+    height: 400px; 
     margin: 20px;
     overflow: hidden;
     border: 2px solid #ddd;
@@ -69,20 +70,19 @@ title: Dian Ji (吉点)
   .carousel-images {
     display: flex;
     transition: transform 0.5s ease-in-out;
-    width: 100%; 
   }
 
   .carousel-item {
     position: relative;
-    flex: 0 0 100%; 
+    flex: 0 0 100%;
     width: 100%;
-    height: 100%;
+    height: 100%; 
   }
 
   .carousel-item img {
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    object-fit: cover; 
   }
 
   .image-title {
