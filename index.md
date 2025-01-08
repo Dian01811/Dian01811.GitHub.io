@@ -6,13 +6,19 @@ title: Dian Ji (吉点)
 # <span style="color:black">Welcome</span>
 
 <div class="carousel" style="float: right;">
-  <div class="carousel-images" id="carouselImages">
+  <div class="carousel-images" id="carouselImages">  
     <div class="carousel-item">
-      <div class="image-title">Image 1: Large skipjack fish caught in the Tennessee River</div>
-    <img src="https://dian01811.github.io/files/photo.jpg" alt="Image 1">
+      <div class="image-title">Large skipjack fish caught in the Tennessee River</div>
+    <img src="https://dian01811.github.io/files/photo2.JPG" alt="Image 1">
         </div>
+    <div class="carousel-item">
+    <div class="image-title">Talk presentation at Lunar and Planetary Science Conference</div>
     <img src="https://dian01811.github.io/files/LPSC.JPG" alt="Image 2">
+    </div>
+  <div class="carousel-item">
+  <div class="image-title">Field trip in North Carolina</div>
     <img src="https://dian01811.github.io/files/field trip.jpg" alt="Image 3">
+  </div>
   </div>
   <div class="carousel-buttons">
     <button class="carousel-button" id="prevButton">◀</button>
