@@ -92,7 +92,7 @@ title: Dian Ji (吉点)
     transform: translateX(-50%);
     background: rgba(0, 0, 0, 0.6);
     color: #fff;
-    padding: 5px 10px;
+    padding: 5px 15px;
     border-radius: 5px;
     font-size: 14px;
     z-index: 10;
