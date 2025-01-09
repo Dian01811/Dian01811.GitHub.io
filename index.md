@@ -85,19 +85,22 @@ title: Dian Ji (吉点)
     object-fit: cover; 
   }
 
-  .image-title {
-    position: absolute;
-    top: 10px;
-    left: 50%;
-    transform: translateX(-50%);
-    background: rgba(0, 0, 0, 0.6);
-    color: #fff;
-    padding: 5px 15px;
-    border-radius: 5px;
-    font-size: 14px;
-    z-index: 10;
-    text-align: center;
-  }
+.image-title {
+  position: absolute;
+  top: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 80%; /* Adjust the width to your preference */
+  background: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 14px;
+  z-index: 10;
+  text-align: center;
+  height: auto; /* Keeps height adaptive to content */
+  overflow-wrap: break-word; /* Ensures text wraps within the box */
+}
 
   .carousel-buttons {
     position: absolute;
