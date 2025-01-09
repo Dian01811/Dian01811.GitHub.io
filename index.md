@@ -8,7 +8,7 @@ title: Dian Ji (吉点)
 <div class="carousel" style="float: right;">
   <div class="carousel-images" id="carouselImages">
     <div class="carousel-item">
-      <div class="image-title">Large skipjack caught in the Tennessee River</div>
+      <div class="image-title">Large skipjack shad caught in the Tennessee River</div>
       <img src="https://dian01811.github.io/files/photo2.JPG" alt="Image 1">
     </div>
     <div class="carousel-item">
