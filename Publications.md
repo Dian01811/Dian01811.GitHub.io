@@ -7,6 +7,8 @@ description: Publications
 # <span style="color:black">Publications</span>
  
 **Peer-Reviewed Articles**
+
+(4) N. Dygert, **D. Ji**, E. Etheridge, (2025) A predictive model for divalent element partitioning between clinopyroxene and basaltic melt and a europium-in-plagioclase-clinopyroxene oxybarometer for cumulate rocks. <em>Geochimica et Cosmochimica Acta</em>. accepted <br>
   
 (3) **D. Ji**, N. Dygert, (2024) Trace element partitioning between apatite and silicate melts: Effects of major element composition, temperature, and oxygen fugacity, and implications for the volatile element budget of the lunar magma ocean. <em>Geochimica et Cosmochimica Acta</em>. [doi: 10.1016/j.gca.2023.11.004](https://doi.org/10.1016/j.gca.2023.11.004) <br>
 
