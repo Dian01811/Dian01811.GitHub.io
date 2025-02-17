@@ -132,6 +132,8 @@ title: Dian Ji (吉点)
 
 <font size=5 color="black"><strong>News</strong></font>
 
+<strong>Feb 17, 2025: Ji’s paper on sulfur budget of the young lunar mantle was accepted for publication in <em>Geochimica et Cosmochimia Acta</em>!</strong>
+
 <strong>Dec 16, 2024: Ji won the 2025 Rice Space Institute Center for Planetary Origins to Habitability (CPO2H) graduate fellowship!</strong>
 
 <strong>Dec 13, 2024: [Ji gave a poster presentation on deep sulfur cycle in the young lunar mantle at the AGU Fall Meeting](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1517917).</strong>
