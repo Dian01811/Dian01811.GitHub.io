@@ -6,7 +6,7 @@ description: Research
 
 # <span style="color:black">Sulfur inventory of the young lunar mantle</span>
  
- [**Ji**, Dasgupta, Geochimica et Cosmochimica Acta (2025)](https://doi.org/10.1016/j.gca.2025.02.019)
+ [**Ji**, Dasgupta, <em>Geochimica et Cosmochimica Acta</em> (2025)](https://doi.org/10.1016/j.gca.2025.02.019)
  
 <img align="right" src="https://dian01811.github.io/files/SCSS.jpg" width="350"> 
   
@@ -14,7 +14,7 @@ description: Research
 
 # <span style="color:black">Trace element partitioning between apatite and silicate melts</span>
  
- [**Ji**, Dygert, Geochimica et Cosmochimica Acta (2024)](https://doi.org/10.1016/j.gca.2023.11.004)
+ [**Ji**, Dygert, <em>Geochimica et Cosmochimica Acta</em> (2024)](https://doi.org/10.1016/j.gca.2023.11.004)
  
 <img align="right" src="https://dian01811.github.io/files/Apt_model.jpg" width="350"> 
   
@@ -22,7 +22,7 @@ description: Research
 
 # <span style="color:black">Serial processing of the lunar crust</span>
 
-[**Ji**, Dygert, Earth and Planetary Science Letters (2023)](https://doi.org/10.1016/j.epsl.2022.117958)
+[**Ji**, Dygert, <em>Earth and Planetary Science Letters</em> (2023)](https://doi.org/10.1016/j.epsl.2022.117958)
  
 <img align="right" src="https://dian01811.github.io/files/Eu.jpg" width="350"> 
   
@@ -31,7 +31,7 @@ description: Research
 
 # <span style="color:black">The petrogenesis of early Cretaceous adakitic rocks in Northeast China</span>
 
-[**Ji**, Liu, Li, International Geology Review (2020)](https://doi.org/10.1080/00206814.2019.1697968)
+[**Ji**, Liu, Li, <em>International Geology Review</em> (2020)](https://doi.org/10.1080/00206814.2019.1697968)
 
 <img align="right" src="https://dian01811.github.io/files/adakite.jpg" width="500">
   
