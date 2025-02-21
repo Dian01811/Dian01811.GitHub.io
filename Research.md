@@ -6,7 +6,7 @@ description: Research
 
 # <span style="color:black">Sulfur inventory of the young lunar mantle</span>
  
- [**Ji**, Dasgupta, AGU Fall Meeting Abstracts (2024)](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1517917)
+ [**Ji**, Dasgupta, Geochimica et Cosmochimica Acta (2025)](https://doi.org/10.1016/j.gca.2025.02.019)
  
 <img align="right" src="https://dian01811.github.io/files/SCSS.jpg" width="350"> 
   
