@@ -5,7 +5,7 @@ description: Publications
 ---
 
 # <span style="color:black">Publications</span>
- 
+--- 
 **Peer-Reviewed Articles**
 
 (5) **D. Ji**, R. Dasgupta, (2025) Sulfur inventory of the young lunar mantle constrained by experimental sulfide saturation of Chang’e-5 mare basalts and a new sulfur solubility model for silicate melts in equilibrium with sulfides of variable metal–sulfur ratio. <em>Geochimica et Cosmochimica Acta</em>. [doi.org/10.1016/j.gca.2025.02.019](https://doi.org/10.1016/j.gca.2025.02.019)<br>
