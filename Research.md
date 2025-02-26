@@ -4,6 +4,15 @@ title: Dian Ji (吉点)
 description: Research
 ---
 
+# <span style="color:black">The existence of garnet in the source of young lunar mare basalts</span>
+ 
+ [**Ji**, Dasgupta, <em>Lunar and Planetary Science Conference</em> (2025)](https://www.hou.usra.edu/meetings/lpsc2025/pdf/1332.pdf)
+ 
+<img align="right" src="https://dian01811.github.io/files/grt.jpg" width="350"> 
+  
+<font size=4>&emsp;&emsp;The Chang’e-5 mare basalts are the youngest returned lunar mare basalts to data (~2 Ga), offering insights into young lunar magmatism and providing valuable clues about the temporal evolution of the lunar mantle. In this study, we conducted high-pressure and high-temperature experiments, thermodynamic modeling, and trace element modeling, revealing that garnet is a stable phase in the young lunar mantle but may not have been present in the older Apollo low-Ti basalt source mantle. This discrepancy could result from mantle heterogeneity caused by lunar cumulate mantle overturn. This heterogeneous mantle survived the subsequent geodynamic evolution of the lunar interior and was preserved until ~2 Ga.</font>
+
+
 # <span style="color:black">Sulfur inventory of the young lunar mantle</span>
  
  [**Ji**, Dasgupta, <em>Geochimica et Cosmochimica Acta</em> (2025)](https://doi.org/10.1016/j.gca.2025.02.019)
