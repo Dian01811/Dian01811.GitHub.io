@@ -6,6 +6,8 @@ description: Tools
 
 # <span style="color:black">Tools</span>
  
-(2) **D. Ji**, N. Dygert, (2023) Trace element evidence for serial processing of the lunar flotation crust and a depleted bulk Moon. <em>Earth and Planetary Science Letters</em>. [doi: 10.1016/j.epsl.2022.117958](https://doi.org/10.1016/j.epsl.2022.117958)<br>
+(3) <a href="https://dian01811.github.io/files/SCSS_calculator.xlsx" download>Sulfur concentration at sulfide saturation calculator</a>
+
+(2) <a href="https://dian01811.github.io/files/fO2_calculator_apatite.xlsx" download>Eu in apatite-plagioclase oxybarometer</a>
 
 (1) <a href="https://dian01811.github.io/files/Apatite_calculator.xlsx" download>Apatite trace element partition coefficients calculator</a>
