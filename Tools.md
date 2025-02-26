@@ -6,7 +6,7 @@ description: Tools
 
 # <span style="color:black">Tools</span>
  
-(3) <a href="https://dian01811.github.io/files/SCSS_calculator.xlsx" download>Sulfur concentration at sulfide saturation calculator</a>
+(3) <a href="https://dian01811.github.io/files/SCSS calculators.xlsx" download>Sulfur concentration at sulfide saturation calculator</a>
 
 (2) <a href="https://dian01811.github.io/files/fO2_calculator_apatite.xlsx" download>Eu in apatite-plagioclase oxybarometer</a>
 
