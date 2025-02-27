@@ -8,6 +8,8 @@ description: Publications
 --- 
 **Peer-Reviewed Articles**
 
+(6) Y. Zhang, R. Dasgupta, **D. Ji**, C. Lee, Y. Peng, B. Charlier, Z. Jin, J. Chen, O. Namur, (2025) Mantle melting conditions of mare lavas on South Pole–Aitken basin of lunar farside. <em>Geophysical Research Letters</em>. accepted
+
 (5) **D. Ji**, R. Dasgupta, (2025) Sulfur inventory of the young lunar mantle constrained by experimental sulfide saturation of Chang’e-5 mare basalts and a new sulfur solubility model for silicate melts in equilibrium with sulfides of variable metal–sulfur ratio. <em>Geochimica et Cosmochimica Acta</em>. [doi.org/10.1016/j.gca.2025.02.019](https://doi.org/10.1016/j.gca.2025.02.019)<br>
 
 (4) N. Dygert, **D. Ji**, E. Etheridge, (2025) A predictive model for divalent element partitioning between clinopyroxene and basaltic melt and a europium-in-plagioclase-clinopyroxene oxybarometer for cumulate rocks. <em>Geochimica et Cosmochimica Acta</em>. [doi.org/10.1016/j.gca.2025.02.003](https://doi.org/10.1016/j.gca.2025.02.003) <br>
