@@ -8,7 +8,7 @@ description: Publications
 --- 
 **Peer-Reviewed Articles**
 
-(6) Y. Zhang, R. Dasgupta, **D. Ji**, C. Lee, Y. Peng, B. Charlier, Z. Jin, J. Chen, O. Namur, (2025) Mantle melting conditions of mare lavas on South Pole–Aitken basin of lunar farside. <em>Geophysical Research Letters</em>. accepted
+(6) Y. Zhang, R. Dasgupta, **D. Ji**, C. Lee, Y. Peng, B. Charlier, Z. Jin, J. Chen, O. Namur, (2025) Mantle melting conditions of mare lavas on South Pole–Aitken basin of lunar farside. <em>Geophysical Research Letters</em>. [doi.org/10.1029/2024GL112418](https://doi.org/10.1029/2024GL112418)<br>
 
 (5) **D. Ji**, R. Dasgupta, (2025) Sulfur inventory of the young lunar mantle constrained by experimental sulfide saturation of Chang’e-5 mare basalts and a new sulfur solubility model for silicate melts in equilibrium with sulfides of variable metal–sulfur ratio. <em>Geochimica et Cosmochimica Acta</em>. [doi.org/10.1016/j.gca.2025.02.019](https://doi.org/10.1016/j.gca.2025.02.019)<br>
 
