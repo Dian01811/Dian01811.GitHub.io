@@ -133,7 +133,7 @@ title: Dian Ji (吉点)
 
 <strong>Mar 10, 2025: Ji gave a talk presentation on [existence of garnet in the source of young lunar mare basalts at the Lunar and Planetary Science Conference](https://www.hou.usra.edu/meetings/lpsc2025/pdf/1332.pdf).</strong>
 
-<strong>Feb 21, 2024: Ji gave a talk on the sulfur budget of the young lunar mantle and the origin of the Chang’e-5 mare basalts at the [Geochemistry/Minerology/Petrology (GMP) Lunch Bunch](https://events.brown.edu/earth-environmental-planetary/event/305456-gmp-lunch-bunch-dian-ji) at Brown University!</strong>
+<strong>Feb 21, 2025: Ji gave a talk on the sulfur budget of the young lunar mantle and the origin of the Chang’e-5 mare basalts at the [Geochemistry/Minerology/Petrology (GMP) Lunch Bunch](https://events.brown.edu/earth-environmental-planetary/event/305456-gmp-lunch-bunch-dian-ji) at Brown University!</strong>
 
 <strong>Feb 17, 2025: [Ji’s paper on sulfur budget of the young lunar mantle was accepted for publication in <em>Geochimica et Cosmochimia Acta</em>](https://doi.org/10.1016/j.gca.2025.02.019)!</strong>
 
