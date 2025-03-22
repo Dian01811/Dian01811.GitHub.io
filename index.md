@@ -145,7 +145,7 @@ title: Dian Ji (吉点)
 
 <strong>Apr 3, 2024: Ji passed his written Preliminary Exam!</strong>
 
-<strong>Mar 12, 2024: Ji gave a talk presentation on [a new europium in apatite-plagioclase oxybarometer at the Lunar and Planetary Science Conference](https://www.hou.usra.edu/meetings/lpsc2024/pdf/1240.pdf).</strong>
+<strong>Mar 12, 2024: Ji gave a talk presentation on [a new europium in apatite-plagioclase oxybarometer](https://www.hou.usra.edu/meetings/lpsc2024/pdf/1240.pdf) at the 55th Lunar and Planetary Science Conference.</strong>
 
 <strong>Nov 3, 2023: [Ji’s paper on apatite-melt trace element partitioning was accepted for publication in <em>Geochimica et Cosmochimia Acta</em>](https://doi.org/10.1016/j.gca.2023.11.004)!</strong>
 
@@ -163,7 +163,7 @@ title: Dian Ji (吉点)
 
 <strong>Mar 15, 2023: In the PhD program application, Ji received offers of admission from all applied programs</strong>, including Caltech, University of Chicago, University of Michigan, Rice University, UT Austin, and University of Minnesota!
 
-<strong>Mar 13, 2023: Ji gave a talk presentation on [apatite-melt trace element partitioning at the Lunar and Planetary Science Conference](https://www.hou.usra.edu/meetings/lpsc2023/pdf/1255.pdf).</strong>
+<strong>Mar 13, 2023: Ji gave a talk presentation on [apatite-melt trace element partitioning](https://www.hou.usra.edu/meetings/lpsc2023/pdf/1255.pdf) at the 54th Lunar and Planetary Science Conference.</strong>
 
 <strong>Dec 7, 2022: [Ji’s paper on lunar anorthositic crust was accepted in <em>Earth and Planetary Science Letters</em>](https://doi.org/10.1016/j.epsl.2022.117958)!</strong> 
 
@@ -171,7 +171,7 @@ title: Dian Ji (吉点)
 
 <strong>May 5, 2022: Ji received the Jimmy Walls Colloquium Presentation Award from Department of Earth, Environmental, and Planetary Sciences, University of Tennessee.</strong>
 
-<strong>Mar 13, 2022: Ji gave a talk presentation on [lunar anorthositic crust at the Lunar and Planetary Science Conference](https://www.hou.usra.edu/meetings/lpsc2022/pdf/1229.pdf).</strong>
+<strong>Mar 13, 2022: Ji gave a talk presentation on [lunar anorthositic crust](https://www.hou.usra.edu/meetings/lpsc2022/pdf/1229.pdf) at the 53rd Lunar and Planetary Science Conference.</strong>
 
 <strong>Mar 13, 2022: Ji attended the McClung Blue Ridge Foothills Field Trip, studying the Appalachian foreland fold-thrust belt transition.</strong>
 
