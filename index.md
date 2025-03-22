@@ -151,9 +151,9 @@ title: Dian Ji (吉点)
 
 <strong>Oct 13, 2023: Ji participated in a field trip regarding igneous and metamorphic rocks in Valles Caldera, Los Alamos Surge Deposits, Bandelier National Monument, and Rio Grande Gorge.</strong>
 
-<strong>Agu 15, 2023: Ji was awarded the Chair’s Fellowship by Rice University Department of Earth, Environmental and Planetary Sciences.</strong>
+<strong>Aug 15, 2023: Ji was awarded the Chair’s Fellowship by Rice University Department of Earth, Environmental and Planetary Sciences.</strong>
 
-<strong>Agu 1, 2023: Ji moved on to the PhD program at Rice University.</strong> Bye, Tennessee!
+<strong>Aug 1, 2023: Ji moved on to the PhD program at Rice University.</strong> Bye, Tennessee!
 
 <strong>Jul 6, 2023: Ji defended his MS Thesis!</strong>
 
