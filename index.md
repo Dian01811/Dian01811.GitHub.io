@@ -131,7 +131,7 @@ title: Dian Ji (吉点)
 
 <font size=5 color="black"><strong>News</strong></font>
 
-<strong>Apr 17, 2025: Ji passed his PhD Preliminary Exam!</strong>
+<strong>Apr 17, 2025: Ji passed his PhD Qualifying Exam!</strong>
 
 <strong>Mar 10, 2025: Ji gave a talk presentation on [existence of garnet in the source of young lunar mare basalts](https://www.hou.usra.edu/meetings/lpsc2025/pdf/1332.pdf) at the 56th Lunar and Planetary Science Conference.</strong>
 
