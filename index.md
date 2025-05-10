@@ -131,6 +131,8 @@ title: Dian Ji (吉点)
 
 <font size=5 color="black"><strong>News</strong></font>
 
+<strong>May 9, 2025: Ji was awarded the Torkild Reiber Award by the Department of Earth, Environmental and Planetary Sciences, Rice University.</strong>
+
 <strong>Apr 17, 2025: Ji passed his PhD Qualifying Exam!</strong>
 
 <strong>Mar 10, 2025: Ji gave a talk presentation on [existence of garnet in the source of young lunar mare basalts](https://www.hou.usra.edu/meetings/lpsc2025/pdf/1332.pdf) at the 56th Lunar and Planetary Science Conference.</strong>
@@ -153,7 +155,7 @@ title: Dian Ji (吉点)
 
 <strong>Oct 13, 2023: Ji participated in a field trip regarding igneous and metamorphic rocks in Valles Caldera, Los Alamos Surge Deposits, Bandelier National Monument, and Rio Grande Gorge.</strong>
 
-<strong>Aug 15, 2023: Ji was awarded the Chair’s Fellowship by Rice University Department of Earth, Environmental and Planetary Sciences.</strong>
+<strong>Aug 15, 2023: Ji was awarded the Chair’s Fellowship by the Department of Earth, Environmental and Planetary Sciences, Rice University.</strong>
 
 <strong>Aug 1, 2023: Ji moved on to the PhD program at Rice University.</strong> Bye, Tennessee!
 
@@ -171,7 +173,7 @@ title: Dian Ji (吉点)
 
 <strong>Sep 30, 2022: Ji participated in the Rio Grande Rift xenolith sampling expedition in New Mexico, collecting mantle and crustal xenoliths.</strong>
 
-<strong>May 5, 2022: Ji received the Jimmy Walls Colloquium Presentation Award from Department of Earth, Environmental, and Planetary Sciences, University of Tennessee.</strong>
+<strong>May 5, 2022: Ji received the Jimmy Walls Colloquium Presentation Award from the Department of Earth, Environmental, and Planetary Sciences, University of Tennessee.</strong>
 
 <strong>Mar 13, 2022: Ji gave a talk presentation on [lunar anorthositic crust](https://www.hou.usra.edu/meetings/lpsc2022/pdf/1229.pdf) at the 53rd Lunar and Planetary Science Conference.</strong>
 
