@@ -131,6 +131,8 @@ title: Dian Ji (吉点)
 
 <font size=5 color="black"><strong>News</strong></font>
 
+<strong>Jul 10, 2025: Ji will supervise a high-school intern, Denim-Leenox Sasser, on high temperature experiments this Summer!</strong> Welcome, Denim!
+
 <strong>May 9, 2025: Ji was awarded the Torkild Reiber Award by the Department of Earth, Environmental and Planetary Sciences, Rice University.</strong>
 
 <strong>Apr 17, 2025: Ji passed his PhD Qualifying Exam!</strong>
