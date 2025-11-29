@@ -3,8 +3,7 @@ layout: default
 title: Dian Ji (吉点)
 ---
 
-<h1 class="home-title">Welcome</h1>
-
+# <span style="color:black">Welcome</span>
 
 <div class="carousel" style="float: right;">
   <div class="carousel-images" id="carouselImages">
@@ -130,8 +129,7 @@ title: Dian Ji (吉点)
 
 
 
-
-<h2 class="section-title">News</h2>
+<font size=5 color="black"><strong>News</strong></font>
 
 <strong>Jul 10, 2025: Ji will supervise a high-school intern, Denim-Leenox Sasser, on high temperature experiments this Summer!</strong> Welcome, Denim!
 
