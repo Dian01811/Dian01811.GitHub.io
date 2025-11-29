@@ -1,0 +1,102 @@
+/* Root variables for light mode */
+:root {
+  --bg: #ffffff;
+  --text: #222222;
+  --header-bg: #159957;
+  --header-text: #ffffff;
+  --btn-bg: #157878;
+  --btn-text: #ffffff;
+  --link: #0366d6;
+}
+
+/* Dark mode auto (via system preference) */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0d1117;
+    --text: #e6edf3;
+    --header-bg: #033d2d;
+    --header-text: #ffffff;
+    --btn-bg: #1f6feb;
+    --btn-text: #ffffff;
+    --link: #58a6ff;
+  }
+}
+
+/* Forced dark mode (manual toggle) */
+:root.dark {
+  --bg: #0d1117 !important;
+  --text: #e6edf3 !important;
+  --header-bg: #033d2d !important;
+  --header-text: #ffffff !important;
+  --btn-bg: #1f6feb !important;
+  --btn-text: #ffffff !important;
+  --link: #58a6ff !important;
+}
+
+/* Forced light mode (manual toggle) */
+:root.light {
+  --bg: #ffffff !important;
+  --text: #222222 !important;
+  --header-bg: #159957 !important;
+  --header-text: #ffffff !important;
+  --btn-bg: #157878 !important;
+  --btn-text: #ffffff !important;
+  --link: #0366d6 !important;
+}
+
+/* ---------------------- */
+/* Apply variables to theme */
+/* ---------------------- */
+
+body {
+  background: var(--bg) !important;
+  color: var(--text) !important;
+}
+
+/* Header */
+.page-header {
+  background: var(--header-bg) !important;
+  color: var(--header-text) !important;
+}
+
+.page-header .project-name,
+.page-header .project-tagline {
+  color: var(--header-text) !important;
+}
+
+/* Links */
+a {
+  color: var(--link) !important;
+}
+
+/* Buttons */
+.btn {
+  background: var(--btn-bg) !important;
+  color: var(--btn-text) !important;
+  border: none !important;
+}
+
+.btn:hover {
+  opacity: 0.8;
+}
+
+/* Footer */
+.site-footer {
+  color: var(--text) !important;
+}
+
+/* Code blocks */
+pre,
+code {
+  background: rgba(127,127,127,0.15) !important;
+  color: var(--text) !important;
+}
+
+/* Tables */
+table {
+  color: var(--text) !important;
+}
+
+tr:nth-child(even) {
+  background: rgba(127,127,127,0.1) !important;
+}
