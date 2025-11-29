@@ -3,7 +3,7 @@ layout: default
 title: Dian Ji (吉点)
 ---
 
-# <span style="color:black">Welcome</span>
+<font size=6><strong>Welcome</strong></font>
 
 <div class="carousel" style="float: right;">
   <div class="carousel-images" id="carouselImages">
