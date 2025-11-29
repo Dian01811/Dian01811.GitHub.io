@@ -12,6 +12,10 @@ description: Research
   
 <font size=4>&emsp;&emsp;The Chang’e-5 mare basalts are the youngest returned lunar mare basalts to data (~2 Ga), offering insights into young lunar magmatism and providing valuable clues about the temporal evolution of the lunar mantle. In this study, we conducted high-pressure and high-temperature experiments, thermodynamic modeling, and trace element modeling, revealing that garnet is a stable phase in the young lunar mantle but may not have been present in the older Apollo low-Ti basalt source mantle. This discrepancy could result from mantle heterogeneity caused by lunar cumulate mantle overturn. This heterogeneous mantle survived the subsequent geodynamic evolution of the lunar interior and was preserved until ~2 Ga.</font>
 
+</font>
+
+<div style="clear: both;"></div>
+
 <font size=6>Sulfur inventory of the young lunar mantle</font>
  
  [**Ji**, Dasgupta, <em>Geochimica et Cosmochimica Acta</em> (2025)](https://doi.org/10.1016/j.gca.2025.02.019)
