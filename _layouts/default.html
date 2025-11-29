@@ -1,118 +1,105 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-<link rel="shortcut icon" type="image/jpg" href="/files/Ji.jpg">
+ <link rel="shortcut icon" type="image/jpg" href="/files/Ji.jpg">
+  <head>
+    <meta charset="UTF-8">
 
-<head>
-  <meta charset="UTF-8">
+{% seo %}
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/dark-mode.css' | relative_url }}">
 
-  {% seo %}
-  <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#157878">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    {% include head-custom.html %}
 
-  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-  <link rel="stylesheet" href="{{ '/assets/css/dark-mode.css' | relative_url }}">
+ <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8LPPSJCGTC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-8LPPSJCGTC');
+</script>
 
-  {% include head-custom.html %}
+<style>
+  /* theme toggle icon with Dark/Light text */
+  #theme-toggle {
+    position: fixed;
+    top: 15px;
+    right: 20px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    user-select: none;
+    z-index: 9999;
+    padding: 4px 8px;
+    border-radius: 4px;
+    background: rgba(255,255,255,0.2);
+    color: #ffffff;
+    transition: 0.2s ease-in-out;
+  }
 
-  <!-- Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-8LPPSJCGTC"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-8LPPSJCGTC');
-  </script>
+  #theme-toggle:hover {
+    background: rgba(255,255,255,0.4);
+  }
+</style>
 
-  <!-- Theme Toggle CSS -->
-  <style>
-    .toggle-text-btn {
-      position: fixed;
-      top: 15px;
-      right: 20px;
-      padding: 6px 14px;
-      background: rgba(0,0,0,0.1);
-      border-radius: 20px;
-      font-size: 15px;
-      font-weight: 600;
-      cursor: pointer;
-      user-select: none;
-      z-index: 9999;
-      backdrop-filter: blur(4px);
-      transition: all 0.25s ease;
-    }
+  </head>
+  <body>
 
-    .dark .toggle-text-btn {
-      background: rgba(255,255,255,0.12);
-      color: #fff;
-    }
+    <!-- DARK MODE TOGGLE TEXT -->
+    <div id="theme-toggle">Dark</div>
 
-    .light .toggle-text-btn {
-      background: rgba(0,0,0,0.1);
-      color: #000;
-    }
+    <!-- AUTO + MANUAL DARK MODE SCRIPT -->
+    <script>
+      const toggle = document.getElementById("theme-toggle");
+      const saved = localStorage.getItem("theme");
 
-    .toggle-text-btn:hover {
-      opacity: 0.8;
-    }
-  </style>
-
-</head>
-
-<body>
-
-  <!-- THEME TOGGLE BUTTON -->
-  <div id="theme-toggle" class="toggle-text-btn">Dark</div>
-
-  <!-- DARK/LIGHT MODE SCRIPT -->
-  <script>
-    const toggle = document.getElementById("theme-toggle");
-    const saved = localStorage.getItem("theme");
-
-    /* 1. Apply saved theme OR auto mode */
-    if (saved === "dark") {
-      document.documentElement.classList.add("dark");
-    } else if (saved === "light") {
-      document.documentElement.classList.add("light");
-    } else {
-      // Auto mode follows system
-      if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
+      // 1. Apply saved theme OR auto theme
+      if (saved === "dark") {
         document.documentElement.classList.add("dark");
-      } else {
+      } else if (saved === "light") {
         document.documentElement.classList.add("light");
-      }
-    }
-
-    /* 2. Update button text */
-    function updateToggleText() {
-      if (document.documentElement.classList.contains("dark")) {
-        toggle.textContent = "Light";   // user can switch to Light mode
       } else {
-        toggle.textContent = "Dark";    // user can switch to Dark mode
+        if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
+          document.documentElement.classList.add("dark");
+        } else {
+          document.documentElement.classList.add("light");
+        }
       }
-    }
 
-    updateToggleText();
-
-    /* 3. Manual toggle */
-    toggle.addEventListener("click", () => {
-      if (document.documentElement.classList.contains("dark")) {
-        document.documentElement.classList.remove("dark");
-        document.documentElement.classList.add("light");
-        localStorage.setItem("theme", "light");
-      } else {
-        document.documentElement.classList.remove("light");
-        document.documentElement.classList.add("dark");
-        localStorage.setItem("theme", "dark");
+      // 2. Update text based on current theme
+      function updateText() {
+        if (document.documentElement.classList.contains("dark")) {
+          toggle.textContent = "Light";
+          toggle.style.color = "#ffffff";
+        } else {
+          toggle.textContent = "Dark";
+          toggle.style.color = "#000000";
+        }
       }
-      updateToggleText();
-    });
 
-    /* 4. Follow system changes ONLY when no manual override */
-    window.matchMedia("(prefers-color-scheme: dark)")
-      .addEventListener("change", e => {
+      updateText(); // run at load
+
+      // 3. Manual toggle
+      toggle.addEventListener("click", () => {
+        if (document.documentElement.classList.contains("dark")) {
+          document.documentElement.classList.remove("dark");
+          document.documentElement.classList.add("light");
+          localStorage.setItem("theme", "light");
+        } else {
+          document.documentElement.classList.remove("light");
+          document.documentElement.classList.add("dark");
+          localStorage.setItem("theme", "dark");
+        }
+        updateText();
+      });
+
+      // 4. Update if system theme changes (optional)
+      window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", e => {
         if (!localStorage.getItem("theme")) {
           if (e.matches) {
             document.documentElement.classList.remove("light");
@@ -121,41 +108,38 @@
             document.documentElement.classList.remove("dark");
             document.documentElement.classList.add("light");
           }
-          updateToggleText();
+          updateText();
         }
       });
-  </script>
+    </script>
 
-  <a id="skip-to-content" href="#content">Skip to the content.</a>
+    <a id="skip-to-content" href="#content">Skip to the content.</a>
 
-  <header class="page-header" role="banner">
-    <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-    <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+    <header class="page-header" role="banner">
+      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      {% if site.github.is_project_page %}
+        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+      {% endif %}
+      {% if site.show_downloads %}
+        <a href="https://dian01811.github.io" class="btn">Home</a>
+        <a href="https://dian01811.github.io/Research" class="btn">Research</a>
+        <a href="https://dian01811.github.io/Publications" class="btn">Publications</a>
+        <a href="https://dian01811.github.io/files/CV_Ji.pdf" class="btn">CV</a>
+        <a href="https://dian01811.github.io/Tools" class="btn">Tools</a>
+        <a href="https://dian01811.github.io/Contact" class="btn">Contact</a>
+      {% endif %}
+    </header>
 
-    {% if site.github.is_project_page %}
-    <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-    {% endif %}
+    <main id="content" class="main-content" role="main">
+      {{ content }}
 
-    {% if site.show_downloads %}
-      <a href="https://dian01811.github.io" class="btn">Home</a>
-      <a href="https://dian01811.github.io/Research" class="btn">Research</a>
-      <a href="https://dian01811.github.io/Publications" class="btn">Publications</a>
-      <a href="https://dian01811.github.io/files/CV_Ji.pdf" class="btn">CV</a>
-      <a href="https://dian01811.github.io/Tools" class="btn">Tools</a>
-      <a href="https://dian01811.github.io/Contact" class="btn">Contact</a>
-    {% endif %}
-  </header>
-
-  <main id="content" class="main-content" role="main">
-    {{ content }}
-
-    <footer class="site-footer">
-      <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 5px;">
-        <span>© 2022 Dian Ji. All rights reserved.</span>
-        <span>This page was generated by GitHub Pages.</span>
-      </div>
-    </footer>
-
-  </main>
-</body>
+      <footer class="site-footer">
+        <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 5px;">
+          <span>© 2022 Dian Ji. All rights reserved.</span>
+          <span>This page was generated by GitHub Pages.</span>
+        </div>
+      </footer>
+    </main>
+  </body>
 </html>
