@@ -1,127 +1,159 @@
-/* ============================================================
-   DARK / LIGHT MODE BASE COLORS
-   ============================================================ */
+/* ---------------------- */
+/* Base defaults (light mode, Cayman-like) */
+/* ---------------------- */
+
 :root {
-  --light-bg: #ffffff;
-  --light-text: #000000;
-  --light-title: #000000;
+  --bg: #ffffff;
+  --text: #222222;
 
-  --dark-bg: #121212;
-  --dark-text: #e0e0e0;
-  --dark-title: #ffffff;
+  /* Header NEVER changes */
+  --header-text: #ffffff;
 
-  --link-light: #0366d6;
-  --link-dark: #4da3ff;
+  /* Buttons (transparent like original Cayman) */
+  --btn-bg: transparent;
+  --btn-text: rgba(255, 255, 255, 0.85);
+
+  /* Link color */
+  --link: #0366d6;
+
+  /* Titles */
+  --title-color: #000000;
 }
 
-/* Light Mode */
-.light body {
-  background-color: var(--light-bg);
-  color: var(--light-text);
+/* ---------------------- */
+/* Auto dark (system) */
+/* ---------------------- */
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0d1117;
+    --text: #e6edf3;
+
+    /* STILL DO NOT CHANGE HEADER */
+
+    --btn-bg: transparent;
+    --btn-text: #ffffff;
+
+    --link: #58a6ff;
+
+    --title-color: #ffffff;
+  }
 }
 
-.light a {
-  color: var(--link-light);
+/* ---------------------- */
+/* Manual dark */
+/* ---------------------- */
+
+:root.dark {
+  --bg: #0d1117 !important;
+  --text: #e6edf3 !important;
+
+  /* HEADER REMAINS UNTOUCHED */
+
+  --btn-bg: transparent !important;
+  --btn-text: #ffffff !important;
+
+  --link: #58a6ff !important;
+
+  --title-color: #ffffff !important;
 }
 
-/* Dark Mode */
-.dark body {
-  background-color: var(--dark-bg);
-  color: var(--dark-text);
+/* ---------------------- */
+/* Manual light */
+/* ---------------------- */
+
+:root.light {
+  --bg: #ffffff !important;
+  --text: #222222 !important;
+
+  /* HEADER ALWAYS ORIGINAL */
+
+  --btn-bg: transparent !important;
+  --btn-text: rgba(255, 255, 255, 0.85) !important;
+
+  --link: #0366d6 !important;
+
+  --title-color: #000000 !important;
 }
 
-.dark a {
-  color: var(--link-dark);
+/* ---------------------- */
+/* Apply to site */
+/* ---------------------- */
+
+body {
+  background: var(--bg) !important;
+  color: var(--text) !important;
 }
 
-/* ============================================================
-   FORCE TITLES TO FOLLOW LIGHT / DARK MODE
-   (Overrides Cayman theme)
-   ============================================================ */
-
-/* DARK MODE TITLES */
-.dark h1,
-.dark h2,
-.dark h3,
-.dark .project-name,         /* main page title */
-.dark h1.project-name,
-.dark .project-tagline,      /* subtitle */
-.dark .research-title,
-.dark .home-title,
-.dark .section-title {
-  color: var(--dark-title) !important;
+/* HEADER — DO NOT CHANGE */
+.page-header {
+  background-image: url(https://dian01811.github.io/files/BS.jpg) !important;
+  background-size: cover !important;
+  background-position: center !important;
+  color: #ffffff !important;
 }
 
-/* LIGHT MODE TITLES */
-.light h1,
-.light h2,
-.light h3,
-.light .project-name,
-.light h1.project-name,
-.light .project-tagline,
-.light .research-title,
-.light .home-title,
-.light .section-title {
-  color: var(--light-title) !important;
+/* Header text */
+.page-header .project-name,
+.page-header .project-tagline {
+  color: #ffffff !important;
 }
 
-/* ============================================================
-   PAGE BACKGROUND FIX (Cayman uses gradients)
-   ============================================================ */
-
-.dark .page-header {
-  background: #1a1a1a !important;
+/* Header buttons — transparent icons */
+.page-header a.btn {
+  background: transparent !important;
+  color: #ffffff !important;
+  border: 1px solid rgba(255,255,255,0.6) !important;
+  transition: 0.2s ease-in-out;
 }
 
-.light .page-header {
-  background: #159957 !important;
-  background-image: linear-gradient(120deg, #155799, #159957) !important;
+/* Hover → text white, still transparent */
+.page-header a.btn:hover {
+  color: #ffffff !important;
+  background: rgba(255,255,255,0.12) !important;
+  border-color: #ffffff !important;
 }
 
-/* ============================================================
-   BUTTONS
-   ============================================================ */
-.dark .btn {
-  color: white !important;
-  background-color: rgba(255,255,255,0.10) !important;
-  border-color: rgba(255,255,255,0.25) !important;
+/* Normal buttons elsewhere */
+.btn {
+  background: var(--btn-bg) !important;
+  color: var(--btn-text) !important;
+  border: 1px solid rgba(255,255,255,0.6) !important;
 }
 
-.dark .btn:hover {
-  background-color: rgba(255,255,255,0.18) !important;
+.btn:hover {
+  color: #ffffff !important;
+  background: rgba(255,255,255,0.12) !important;
 }
 
-/* Light mode buttons remain default Cayman style */
-
-/* ============================================================
-   FIX MARKDOWN PARAGRAPHS, LISTS, AND HEADERS
-   ============================================================ */
-.dark p,
-.dark li,
-.dark ul,
-.dark ol {
-  color: var(--dark-text) !important;
+/* Links */
+a:not(.btn):not(.page-header a) {
+  color: var(--link) !important;
 }
 
-.light p,
-.light li,
-.light ul,
-.light ol {
-  color: var(--light-text) !important;
+/* Titles */
+.home-title,
+.section-title {
+  color: var(--title-color) !important;
 }
 
-/* ============================================================
-   TABLES
-   ============================================================ */
-.dark table {
-  color: var(--dark-text) !important;
+/* Footer */
+.site-footer {
+  color: var(--text) !important;
 }
 
-/* ============================================================
-   CODE BLOCKS
-   ============================================================ */
-.dark pre,
-.dark code {
-  background: #222 !important;
-  color: #f8f8f2 !important;
+/* Code blocks */
+pre,
+code {
+  background: rgba(128, 128, 128, 0.15) !important;
+  color: var(--text) !important;
+}
+
+/* Tables */
+table {
+  color: var(--text) !important;
+}
+
+tr:nth-child(even) {
+  background: rgba(127,127,127,0.1) !important;
 }
