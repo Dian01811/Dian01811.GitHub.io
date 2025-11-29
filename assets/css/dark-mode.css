@@ -48,8 +48,6 @@
   --bg: #0d1117 !important;
   --text: #e6edf3 !important;
 
-  /* HEADER REMAINS UNTOUCHED */
-
   --btn-bg: transparent !important;
   --btn-text: #ffffff !important;
 
@@ -65,8 +63,6 @@
 :root.light {
   --bg: #ffffff !important;
   --text: #222222 !important;
-
-  /* HEADER ALWAYS ORIGINAL */
 
   --btn-bg: transparent !important;
   --btn-text: rgba(255, 255, 255, 0.85) !important;
@@ -107,7 +103,6 @@ body {
   transition: 0.2s ease-in-out;
 }
 
-/* Hover → text white, still transparent */
 .page-header a.btn:hover {
   color: #ffffff !important;
   background: rgba(255,255,255,0.12) !important;
@@ -131,10 +126,26 @@ a:not(.btn):not(.page-header a) {
   color: var(--link) !important;
 }
 
-/* Titles */
+/* Titles: always theme-controlled */
 .home-title,
 .section-title {
   color: var(--title-color) !important;
+}
+
+/* Enforced title colors to prevent <font> inheritance issues */
+.dark .home-title {
+  color: #ffffff !important;
+}
+
+.light .home-title {
+  color: #000000 !important;
+}
+
+/* Research text paragraphs (replace <font>) */
+.research-text {
+  font-size: 1.05rem;
+  line-height: 1.55;
+  color: var(--text) !important;
 }
 
 /* Footer */
