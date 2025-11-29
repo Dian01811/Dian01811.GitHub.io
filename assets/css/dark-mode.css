@@ -29,8 +29,6 @@
     --bg: #0d1117;
     --text: #e6edf3;
 
-    /* STILL DO NOT CHANGE HEADER */
-
     --btn-bg: transparent;
     --btn-text: #ffffff;
 
@@ -89,13 +87,12 @@ body {
   color: #ffffff !important;
 }
 
-/* Header text */
 .page-header .project-name,
 .page-header .project-tagline {
   color: #ffffff !important;
 }
 
-/* Header buttons — transparent icons */
+/* Header buttons */
 .page-header a.btn {
   background: transparent !important;
   color: #ffffff !important;
@@ -109,7 +106,7 @@ body {
   border-color: #ffffff !important;
 }
 
-/* Normal buttons elsewhere */
+/* Normal buttons */
 .btn {
   background: var(--btn-bg) !important;
   color: var(--btn-text) !important;
@@ -126,40 +123,25 @@ a:not(.btn):not(.page-header a) {
   color: var(--link) !important;
 }
 
-/* Titles: always theme-controlled */
+/* ---------------------- */
+/* UNIVERSAL TITLE FIX — ALWAYS THEME CONTROLLED */
+/* ---------------------- */
+
+.research-title,
 .home-title,
-.section-title {
+.section-title,
+h1, h2, h3, h4 {
   color: var(--title-color) !important;
 }
 
-/* Enforced title colors to prevent <font> inheritance issues */
-.dark .home-title {
-  color: #ffffff !important;
-}
+/* ---------------------- */
+/* Research page text */
+/* ---------------------- */
 
-.light .home-title {
-  color: #000000 !important;
-}
-
-/* Research text paragraphs (replace <font>) */
 .research-text {
   font-size: 1.05rem;
   line-height: 1.55;
   color: var(--text) !important;
-}
-
-.research-title,
-.section-title {
-  color: var(--title-color) !important;
-}
-
-/* Enforced title colors to prevent <font> inheritance issues */
-.dark .research-title {
-  color: #ffffff !important;
-}
-
-.light .research-title {
-  color: #000000 !important;
 }
 
 /* Footer */
