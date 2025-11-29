@@ -164,3 +164,15 @@ table {
 tr:nth-child(even) {
   background: rgba(127,127,127,0.1) !important;
 }
+
+/* FINAL FIX — FORCE TITLES TO FOLLOW THE THEME */
+.research-title,
+.home-title,
+.section-title,
+h1.research-title,
+h1.home-title,
+h1.section-title,
+h1 {
+  color: var(--title-color) !important;
+}
+
