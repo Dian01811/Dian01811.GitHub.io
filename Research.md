@@ -14,6 +14,8 @@ description: Research
 
 <div style="clear: both;"></div>
 
+<br><br>
+
 <font size=6>Sulfur inventory of the young lunar mantle</font>
  
  [**Ji**, Dasgupta, <em>Geochimica et Cosmochimica Acta</em> (2025)](https://doi.org/10.1016/j.gca.2025.02.019)
@@ -36,6 +38,8 @@ description: Research
 
 <div style="clear: both;"></div>
 
+<br><br>
+
 <font size=6>Serial processing of the lunar crust</font>
 
 [**Ji**, Dygert, <em>Earth and Planetary Science Letters</em> (2023)](https://doi.org/10.1016/j.epsl.2022.117958)
@@ -45,6 +49,8 @@ description: Research
 <font size=4>&emsp;&emsp;We calculated REE and Eu distributions in lunar anorthosites according to recent fractional crystallization experiments and we find that crystalized plagioclase exhibit lager Eu anomalies than Apollo samples. Accoding to the numerical modeling, we suggest that subsolidus reequilibration after addition of a KREEP component reduces Eu anomalies and elevates Ce/Sm ratios, reproducing variations in the natural samples. We use Monte Carlo simulations to constrain lunar properties and conditions of subsolidus reequilibration, and proposal a serial processing model to reconcile the petrological, geochronological, and isotopic characteristics of lunar anorthosites and contemporaneous magmatism. </font>
 
 <div style="clear: both;"></div>
+
+<br><br>
 
 <font size=6>The petrogenesis of early Cretaceous adakitic rocks in Northeast China</font>
 
