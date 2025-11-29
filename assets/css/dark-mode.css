@@ -101,3 +101,13 @@ table {
 tr:nth-child(even) {
   background: rgba(127,127,127,0.1) !important;
 }
+
+.home-title,
+.section-title {
+  color: #000;
+}
+
+.dark .home-title,
+.dark .section-title {
+  color: #fff;
+}
