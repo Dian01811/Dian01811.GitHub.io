@@ -5,7 +5,7 @@ description: Contact
 ---
 
 <img align="left" src="https://dian01811.github.io/files/building-2.jpg" width="525">
-### <span style="color:black">E-mail:</span>
+<font size=5>E-mail</font>
 [dj56@rice.edu](mailto:dj56@rice.edu)<br>
 ### <span style="color:black">Mailing Address:</span>
 Department of Earth, Environmental and Planetary Sciences<br>Rice University<br>6100 Main Street<br>Houston, TX 77005
