@@ -1,23 +1,22 @@
 /* ---------------------- */
-/* Base light mode (Cayman-like) */
+/* Base defaults (light mode, Cayman-like) */
 /* ---------------------- */
 
 :root {
   --bg: #ffffff;
   --text: #222222;
 
-  /* Header */
+  /* Header NEVER changes */
   --header-text: #ffffff;
-  --header-bg: #159957; /* or transparent if preferred */
 
-  /* Buttons */
-  --btn-bg: rgba(255, 255, 255, 0.08);
-  --btn-text: rgba(255, 255, 255, 0.7);
+  /* Buttons (transparent like original Cayman) */
+  --btn-bg: transparent;
+  --btn-text: rgba(255, 255, 255, 0.85);
 
   /* Link color */
   --link: #0366d6;
 
-  /* Headings */
+  /* Titles */
   --title-color: #000000;
 }
 
@@ -30,10 +29,9 @@
     --bg: #0d1117;
     --text: #e6edf3;
 
-    --header-bg: #033d2d;
-    --header-text: #ffffff;
+    /* STILL DO NOT CHANGE HEADER */
 
-    --btn-bg: #1f6feb;
+    --btn-bg: transparent;
     --btn-text: #ffffff;
 
     --link: #58a6ff;
@@ -43,17 +41,16 @@
 }
 
 /* ---------------------- */
-/* Manual dark mode */
+/* Manual dark */
 /* ---------------------- */
 
 :root.dark {
   --bg: #0d1117 !important;
   --text: #e6edf3 !important;
 
-  --header-bg: #033d2d !important;
-  --header-text: #ffffff !important;
+  /* HEADER REMAINS UNTOUCHED */
 
-  --btn-bg: #1f6feb !important;
+  --btn-bg: transparent !important;
   --btn-text: #ffffff !important;
 
   --link: #58a6ff !important;
@@ -62,18 +59,17 @@
 }
 
 /* ---------------------- */
-/* Manual light mode */
+/* Manual light */
 /* ---------------------- */
 
 :root.light {
   --bg: #ffffff !important;
   --text: #222222 !important;
 
-  --header-bg: #159957 !important;
-  --header-text: #ffffff !important;
+  /* HEADER ALWAYS ORIGINAL */
 
-  --btn-bg: rgba(255, 255, 255, 0.08) !important;
-  --btn-text: rgba(255, 255, 255, 0.7) !important;
+  --btn-bg: transparent !important;
+  --btn-text: rgba(255, 255, 255, 0.85) !important;
 
   --link: #0366d6 !important;
 
@@ -81,7 +77,7 @@
 }
 
 /* ---------------------- */
-/* Apply variables to site */
+/* Apply to site */
 /* ---------------------- */
 
 body {
@@ -89,35 +85,53 @@ body {
   color: var(--text) !important;
 }
 
-/* Header */
+/* HEADER — DO NOT CHANGE */
 .page-header {
-  background-color: var(--header-bg) !important;
-  color: var(--header-text) !important;
+  background-image: url(https://dian01811.github.io/files/BS.jpg) !important;
+  background-size: cover !important;
+  background-position: center !important;
+  color: #ffffff !important;
 }
 
+/* Header text */
 .page-header .project-name,
 .page-header .project-tagline {
-  color: var(--header-text) !important;
+  color: #ffffff !important;
 }
 
-/* Header buttons */
+/* Header buttons — transparent icons */
 .page-header a.btn {
-  background: var(--btn-bg) !important;
-  color: var(--btn-text) !important;
-  border: none !important;
+  background: transparent !important;
+  color: #ffffff !important;
+  border: 1px solid rgba(255,255,255,0.6) !important;
+  transition: 0.2s ease-in-out;
 }
 
-/* Main buttons */
+/* Hover → text white, still transparent */
+.page-header a.btn:hover {
+  color: #ffffff !important;
+  background: rgba(255,255,255,0.12) !important;
+  border-color: #ffffff !important;
+}
+
+/* Normal buttons elsewhere */
 .btn {
   background: var(--btn-bg) !important;
   color: var(--btn-text) !important;
+  border: 1px solid rgba(255,255,255,0.6) !important;
 }
 
+.btn:hover {
+  color: #ffffff !important;
+  background: rgba(255,255,255,0.12) !important;
+}
+
+/* Links */
 a:not(.btn):not(.page-header a) {
   color: var(--link) !important;
 }
 
-/* Fix Welcome & News heading colors */
+/* Titles */
 .home-title,
 .section-title {
   color: var(--title-color) !important;
@@ -128,10 +142,10 @@ a:not(.btn):not(.page-header a) {
   color: var(--text) !important;
 }
 
-/* Code */
+/* Code blocks */
 pre,
 code {
-  background: rgba(127, 127, 127, 0.15) !important;
+  background: rgba(128, 128, 128, 0.15) !important;
   color: var(--text) !important;
 }
 
@@ -139,6 +153,7 @@ code {
 table {
   color: var(--text) !important;
 }
+
 tr:nth-child(even) {
-  background: rgba(127, 127, 127, 0.1) !important;
+  background: rgba(127,127,127,0.1) !important;
 }
