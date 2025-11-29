@@ -26,34 +26,8 @@
   gtag('config', 'G-8LPPSJCGTC');
 </script>
 
-<!-- DARK MODE CSS OVERRIDES -->
 <style>
-  :root {
-    --bg: #ffffff;
-    --text: #222222;
-  }
-  @media (prefers-color-scheme: dark) {
-    :root {
-      --bg: #111111;
-      --text: #eeeeee;
-    }
-  }
-  :root.dark {
-    --bg: #111111;
-    --text: #eeeeee;
-  }
-  :root.light {
-    --bg: #ffffff;
-    --text: #222222;
-  }
-
-  body {
-    background: var(--bg) !important;
-    color: var(--text) !important;
-    transition: background 0.3s, color 0.3s;
-  }
-
-  /* Toggle button */
+  /* theme toggle icon */
   #theme-toggle {
     position: fixed;
     top: 15px;
@@ -61,8 +35,10 @@
     font-size: 28px;
     cursor: pointer;
     user-select: none;
+    z-index: 9999;
   }
 </style>
+
 
   </head>
   <body>
