@@ -148,6 +148,20 @@ a:not(.btn):not(.page-header a) {
   color: var(--text) !important;
 }
 
+.research-title,
+.section-title {
+  color: var(--title-color) !important;
+}
+
+/* Enforced title colors to prevent <font> inheritance issues */
+.dark .research-title {
+  color: #ffffff !important;
+}
+
+.light .research-title {
+  color: #000000 !important;
+}
+
 /* Footer */
 .site-footer {
   color: var(--text) !important;
