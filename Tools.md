@@ -3,8 +3,7 @@ layout: default
 title: Dian Ji (吉点)
 description: Tools
 ---
-
-# <span style="color:black">Tools</span>
+<font size=6>Tools</font>
 ---
 (4) <a href="https://dian01811.github.io/files/SCSS calculators.xlsx" download>Sulfur concentration at sulfide saturation (SCSS) calculator</a>. Reference: [Ji and Dasgupta (2025) GCA](https://doi.org/10.1016/j.gca.2025.02.019)
 
