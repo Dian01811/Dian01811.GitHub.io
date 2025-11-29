@@ -4,7 +4,7 @@ title: Dian Ji (吉点)
 description: Contact
 ---
 
-<img align="left" src="https://dian01811.github.io/files/building-2.jpg" width="525">
+<img align="left" src="https://dian01811.github.io/files/building-2.jpg" width="525" style="margin-right:25px; margin-bottom:10px;">
 <font size=5>E-mail:</font>
 [dj56@rice.edu](mailto:dj56@rice.edu)<br>
 <font size=5>Mailing Address:</font>
