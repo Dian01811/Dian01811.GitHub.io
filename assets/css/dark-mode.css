@@ -5,7 +5,7 @@
   --header-bg: #159957; /* you can replace with transparent if using header image */
   --header-text: #ffffff;
   --btn-bg: rgba(255, 255, 255, 0.08); /* restore Cayman theme button bg */
-  --btn-text: rgba(255, 255, 255, 0.7); /* restore Cayman theme button text */
+  --btn-text: rgba(0,0,0,0.8); /* black text for header buttons in light mode */
   --link: #0366d6;
 }
 
@@ -40,7 +40,7 @@
   --header-bg: #159957 !important; /* or keep transparent for header image */
   --header-text: #ffffff !important;
   --btn-bg: rgba(255, 255, 255, 0.08) !important; /* Cayman theme light button */
-  --btn-text: rgba(255, 255, 255, 0.7) !important;
+  --btn-text: rgba(0,0,0,0.8) !important; /* black text in header buttons */
   --link: #0366d6 !important;
 }
 
@@ -57,7 +57,6 @@ body {
 .page-header {
   background-color: var(--header-bg) !important;
   color: var(--header-text) !important;
-  /* keep your header background image if any */
   background-image: url(https://dian01811.github.io/files/BS.jpg);
   background-size: cover;
   background-position: center;
@@ -70,15 +69,26 @@ body {
 
 /* Header links inside page-header */
 .page-header a {
-  color: #000000 !important; /* black in light mode */
+  color: var(--btn-text) !important; /* use header button text variable */
+  background: var(--btn-bg) !important;
+  border: none !important;
+  padding: 0.5rem 1rem;
+  border-radius: 0.3rem;
+  text-decoration: none;
 }
 
+.page-header a:hover {
+  opacity: 0.8;
+}
+
+/* Dark mode override for header links */
 :root.dark .page-header a {
-  color: #ffffff !important; /* white in dark mode */
+  color: #ffffff !important;
+  background-color: #1f6feb !important;
 }
 
 /* General links */
-a {
+a:not(.btn):not(.page-header a) {
   color: var(--link) !important;
 }
 
