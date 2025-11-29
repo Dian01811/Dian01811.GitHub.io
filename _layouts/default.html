@@ -50,22 +50,28 @@
     transition: background 0.3s, color 0.3s;
   }
 
-  /* Toggle button */
-  #theme-toggle {
+  /* Toggle button style */
+  #theme-toggle.theme-btn {
     position: fixed;
     top: 15px;
     right: 20px;
-    font-size: 28px;
+    padding: 6px 14px;
+    background: var(--text);
+    color: var(--bg);
+    border: none;
+    border-radius: 6px;
     cursor: pointer;
-    user-select: none;
+    font-size: 14px;
+    font-weight: bold;
+    transition: background 0.3s, color 0.3s;
   }
 </style>
 
   </head>
   <body>
 
-    <!-- DARK MODE TOGGLE ICON -->
-    <div id="theme-toggle">🌙</div>
+    <!-- DARK MODE TOGGLE BUTTON -->
+    <button id="theme-toggle" class="theme-btn">Dark mode</button>
 
     <!-- AUTO + MANUAL DARK MODE SCRIPT -->
 <script>
@@ -86,12 +92,12 @@
     }
   }
 
-  // 2. Update icon based on current theme
+  // 2. Update button text based on current theme
   function updateIcon() {
     if (document.documentElement.classList.contains("dark")) {
-      toggle.textContent = "🌞";  // dark mode → show sun
+      toggle.textContent = "Light mode";
     } else {
-      toggle.textContent = "🌙";  // light mode → show moon
+      toggle.textContent = "Dark mode";
     }
   }
 
@@ -111,7 +117,7 @@
     updateIcon();
   });
 
-  // 4. Update if system theme changes (optional but nice)
+  // 4. Update if system theme changes (optional)
   window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", e => {
     if (!localStorage.getItem("theme")) {  // only in auto mode
       if (e.matches) {
