@@ -55,9 +55,10 @@ body {
 
 /* Header */
 .page-header {
-  background: var(--header-bg) !important;
+  background-color: var(--header-bg) !important;
   color: var(--header-text) !important;
 }
+
 
 .page-header .project-name,
 .page-header .project-tagline {
