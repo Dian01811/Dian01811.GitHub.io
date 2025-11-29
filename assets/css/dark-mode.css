@@ -1,51 +1,87 @@
-/* Root variables for light mode */
+/* ---------------------- */
+/* Base light mode (Cayman-like) */
+/* ---------------------- */
+
 :root {
   --bg: #ffffff;
   --text: #222222;
-  --header-bg: #159957; /* you can replace with transparent if using header image */
+
+  /* Header */
   --header-text: #ffffff;
-  --btn-bg: rgba(255, 255, 255, 0.08); /* restore Cayman theme button bg */
-  --btn-text: rgba(0,0,0,0.8); /* black text for header buttons in light mode */
+  --header-bg: #159957; /* or transparent if preferred */
+
+  /* Buttons */
+  --btn-bg: rgba(255, 255, 255, 0.08);
+  --btn-text: rgba(255, 255, 255, 0.7);
+
+  /* Link color */
   --link: #0366d6;
+
+  /* Headings */
+  --title-color: #000000;
 }
 
-/* Dark mode auto (via system preference) */
+/* ---------------------- */
+/* Auto dark (system) */
+/* ---------------------- */
+
 @media (prefers-color-scheme: dark) {
   :root {
     --bg: #0d1117;
     --text: #e6edf3;
+
     --header-bg: #033d2d;
     --header-text: #ffffff;
+
     --btn-bg: #1f6feb;
     --btn-text: #ffffff;
+
     --link: #58a6ff;
+
+    --title-color: #ffffff;
   }
 }
 
-/* Forced dark mode (manual toggle) */
+/* ---------------------- */
+/* Manual dark mode */
+/* ---------------------- */
+
 :root.dark {
   --bg: #0d1117 !important;
   --text: #e6edf3 !important;
+
   --header-bg: #033d2d !important;
   --header-text: #ffffff !important;
+
   --btn-bg: #1f6feb !important;
   --btn-text: #ffffff !important;
-  --link: #58a6ff !important;
-}
 
-/* Forced light mode (manual toggle) */
-:root.light {
-  --bg: #ffffff !important;
-  --text: #222222 !important;
-  --header-bg: #159957 !important; /* or keep transparent for header image */
-  --header-text: #ffffff !important;
-  --btn-bg: rgba(255, 255, 255, 0.08) !important; /* Cayman theme light button */
-  --btn-text: rgba(0,0,0,0.8) !important; /* black text in header buttons */
-  --link: #0366d6 !important;
+  --link: #58a6ff !important;
+
+  --title-color: #ffffff !important;
 }
 
 /* ---------------------- */
-/* Apply variables to theme */
+/* Manual light mode */
+/* ---------------------- */
+
+:root.light {
+  --bg: #ffffff !important;
+  --text: #222222 !important;
+
+  --header-bg: #159957 !important;
+  --header-text: #ffffff !important;
+
+  --btn-bg: rgba(255, 255, 255, 0.08) !important;
+  --btn-text: rgba(255, 255, 255, 0.7) !important;
+
+  --link: #0366d6 !important;
+
+  --title-color: #000000 !important;
+}
+
+/* ---------------------- */
+/* Apply variables to site */
 /* ---------------------- */
 
 body {
@@ -57,9 +93,6 @@ body {
 .page-header {
   background-color: var(--header-bg) !important;
   color: var(--header-text) !important;
-  background-image: url(https://dian01811.github.io/files/BS.jpg);
-  background-size: cover;
-  background-position: center;
 }
 
 .page-header .project-name,
@@ -67,40 +100,27 @@ body {
   color: var(--header-text) !important;
 }
 
-/* Header links inside page-header */
-.page-header a {
-  color: var(--btn-text) !important; /* use header button text variable */
-  background: var(--btn-bg) !important;
-  border: none !important;
-  padding: 0.5rem 1rem;
-  border-radius: 0.3rem;
-  text-decoration: none;
-}
-
-.page-header a:hover {
-  opacity: 0.8;
-}
-
-/* Dark mode override for header links */
-:root.dark .page-header a {
-  color: #ffffff !important;
-  background-color: #1f6feb !important;
-}
-
-/* General links */
-a:not(.btn):not(.page-header a) {
-  color: var(--link) !important;
-}
-
-/* Buttons */
-.btn {
+/* Header buttons */
+.page-header a.btn {
   background: var(--btn-bg) !important;
   color: var(--btn-text) !important;
   border: none !important;
 }
 
-.btn:hover {
-  opacity: 0.8;
+/* Main buttons */
+.btn {
+  background: var(--btn-bg) !important;
+  color: var(--btn-text) !important;
+}
+
+a:not(.btn):not(.page-header a) {
+  color: var(--link) !important;
+}
+
+/* Fix Welcome & News heading colors */
+.home-title,
+.section-title {
+  color: var(--title-color) !important;
 }
 
 /* Footer */
@@ -108,10 +128,10 @@ a:not(.btn):not(.page-header a) {
   color: var(--text) !important;
 }
 
-/* Code blocks */
+/* Code */
 pre,
 code {
-  background: rgba(127,127,127,0.15) !important;
+  background: rgba(127, 127, 127, 0.15) !important;
   color: var(--text) !important;
 }
 
@@ -119,18 +139,6 @@ code {
 table {
   color: var(--text) !important;
 }
-
 tr:nth-child(even) {
-  background: rgba(127,127,127,0.1) !important;
-}
-
-/* Home / Section titles */
-.home-title,
-.section-title {
-  color: #000;
-}
-
-.dark .home-title,
-.dark .section-title {
-  color: #fff;
+  background: rgba(127, 127, 127, 0.1) !important;
 }
