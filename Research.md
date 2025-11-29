@@ -4,15 +4,15 @@ title: Dian Ji (吉点)
 description: Research
 ---
 
-<h2 style="
-  font-size: 28px;
-  font-weight: 700;
+<p style="
+  font-size: 32px;       /* large size to look like a title */
+  font-weight: 700;      /* bold */
   margin-top: 40px;
   margin-bottom: 15px;
-  color: #2c3e50;
+  color: #2c3e50;        /* fixed color that won't turn black in dark mode */
 ">
   The existence of garnet in the source of young lunar mare basalts
-</h2>
+</p>
 
  
  [**Ji**, Dasgupta, <em>Lunar and Planetary Science Conference</em> (2025)](https://www.hou.usra.edu/meetings/lpsc2025/pdf/1332.pdf)
