@@ -3,14 +3,3 @@
 
 @import 'jekyll-theme-cayman';
 
-/* --- Custom titles (light mode) --- */
-.home-title,
-.section-title {
-  color: #000;
-}
-
-/* --- Custom titles (dark mode) --- */
-.dark .home-title,
-.dark .section-title {
-  color: #fff;
-}
