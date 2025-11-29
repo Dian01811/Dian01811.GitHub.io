@@ -1,178 +1,127 @@
-/* ---------------------- */
-/* Base defaults (light mode, Cayman-like) */
-/* ---------------------- */
-
+/* ============================================================
+   DARK / LIGHT MODE BASE COLORS
+   ============================================================ */
 :root {
-  --bg: #ffffff;
-  --text: #222222;
+  --light-bg: #ffffff;
+  --light-text: #000000;
+  --light-title: #000000;
 
-  /* Header NEVER changes */
-  --header-text: #ffffff;
+  --dark-bg: #121212;
+  --dark-text: #e0e0e0;
+  --dark-title: #ffffff;
 
-  /* Buttons (transparent like original Cayman) */
-  --btn-bg: transparent;
-  --btn-text: rgba(255, 255, 255, 0.85);
-
-  /* Link color */
-  --link: #0366d6;
-
-  /* Titles */
-  --title-color: #000000;
+  --link-light: #0366d6;
+  --link-dark: #4da3ff;
 }
 
-/* ---------------------- */
-/* Auto dark (system) */
-/* ---------------------- */
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg: #0d1117;
-    --text: #e6edf3;
-
-    --btn-bg: transparent;
-    --btn-text: #ffffff;
-
-    --link: #58a6ff;
-
-    --title-color: #ffffff;
-  }
+/* Light Mode */
+.light body {
+  background-color: var(--light-bg);
+  color: var(--light-text);
 }
 
-/* ---------------------- */
-/* Manual dark */
-/* ---------------------- */
-
-:root.dark {
-  --bg: #0d1117 !important;
-  --text: #e6edf3 !important;
-
-  --btn-bg: transparent !important;
-  --btn-text: #ffffff !important;
-
-  --link: #58a6ff !important;
-
-  --title-color: #ffffff !important;
+.light a {
+  color: var(--link-light);
 }
 
-/* ---------------------- */
-/* Manual light */
-/* ---------------------- */
-
-:root.light {
-  --bg: #ffffff !important;
-  --text: #222222 !important;
-
-  --btn-bg: transparent !important;
-  --btn-text: rgba(255, 255, 255, 0.85) !important;
-
-  --link: #0366d6 !important;
-
-  --title-color: #000000 !important;
+/* Dark Mode */
+.dark body {
+  background-color: var(--dark-bg);
+  color: var(--dark-text);
 }
 
-/* ---------------------- */
-/* Apply to site */
-/* ---------------------- */
-
-body {
-  background: var(--bg) !important;
-  color: var(--text) !important;
+.dark a {
+  color: var(--link-dark);
 }
 
-/* HEADER — DO NOT CHANGE */
-.page-header {
-  background-image: url(https://dian01811.github.io/files/BS.jpg) !important;
-  background-size: cover !important;
-  background-position: center !important;
-  color: #ffffff !important;
+/* ============================================================
+   FORCE TITLES TO FOLLOW LIGHT / DARK MODE
+   (Overrides Cayman theme)
+   ============================================================ */
+
+/* DARK MODE TITLES */
+.dark h1,
+.dark h2,
+.dark h3,
+.dark .project-name,         /* main page title */
+.dark h1.project-name,
+.dark .project-tagline,      /* subtitle */
+.dark .research-title,
+.dark .home-title,
+.dark .section-title {
+  color: var(--dark-title) !important;
 }
 
-.page-header .project-name,
-.page-header .project-tagline {
-  color: #ffffff !important;
+/* LIGHT MODE TITLES */
+.light h1,
+.light h2,
+.light h3,
+.light .project-name,
+.light h1.project-name,
+.light .project-tagline,
+.light .research-title,
+.light .home-title,
+.light .section-title {
+  color: var(--light-title) !important;
 }
 
-/* Header buttons */
-.page-header a.btn {
-  background: transparent !important;
-  color: #ffffff !important;
-  border: 1px solid rgba(255,255,255,0.6) !important;
-  transition: 0.2s ease-in-out;
+/* ============================================================
+   PAGE BACKGROUND FIX (Cayman uses gradients)
+   ============================================================ */
+
+.dark .page-header {
+  background: #1a1a1a !important;
 }
 
-.page-header a.btn:hover {
-  color: #ffffff !important;
-  background: rgba(255,255,255,0.12) !important;
-  border-color: #ffffff !important;
+.light .page-header {
+  background: #159957 !important;
+  background-image: linear-gradient(120deg, #155799, #159957) !important;
 }
 
-/* Normal buttons */
-.btn {
-  background: var(--btn-bg) !important;
-  color: var(--btn-text) !important;
-  border: 1px solid rgba(255,255,255,0.6) !important;
+/* ============================================================
+   BUTTONS
+   ============================================================ */
+.dark .btn {
+  color: white !important;
+  background-color: rgba(255,255,255,0.10) !important;
+  border-color: rgba(255,255,255,0.25) !important;
 }
 
-.btn:hover {
-  color: #ffffff !important;
-  background: rgba(255,255,255,0.12) !important;
+.dark .btn:hover {
+  background-color: rgba(255,255,255,0.18) !important;
 }
 
-/* Links */
-a:not(.btn):not(.page-header a) {
-  color: var(--link) !important;
+/* Light mode buttons remain default Cayman style */
+
+/* ============================================================
+   FIX MARKDOWN PARAGRAPHS, LISTS, AND HEADERS
+   ============================================================ */
+.dark p,
+.dark li,
+.dark ul,
+.dark ol {
+  color: var(--dark-text) !important;
 }
 
-/* ---------------------- */
-/* UNIVERSAL TITLE FIX — ALWAYS THEME CONTROLLED */
-/* ---------------------- */
-
-.research-title,
-.home-title,
-.section-title,
-h1, h2, h3, h4 {
-  color: var(--title-color) !important;
+.light p,
+.light li,
+.light ul,
+.light ol {
+  color: var(--light-text) !important;
 }
 
-/* ---------------------- */
-/* Research page text */
-/* ---------------------- */
-
-.research-text {
-  font-size: 1.05rem;
-  line-height: 1.55;
-  color: var(--text) !important;
+/* ============================================================
+   TABLES
+   ============================================================ */
+.dark table {
+  color: var(--dark-text) !important;
 }
 
-/* Footer */
-.site-footer {
-  color: var(--text) !important;
+/* ============================================================
+   CODE BLOCKS
+   ============================================================ */
+.dark pre,
+.dark code {
+  background: #222 !important;
+  color: #f8f8f2 !important;
 }
-
-/* Code blocks */
-pre,
-code {
-  background: rgba(128, 128, 128, 0.15) !important;
-  color: var(--text) !important;
-}
-
-/* Tables */
-table {
-  color: var(--text) !important;
-}
-
-tr:nth-child(even) {
-  background: rgba(127,127,127,0.1) !important;
-}
-
-/* FINAL FIX — FORCE TITLES TO FOLLOW THE THEME */
-.research-title,
-.home-title,
-.section-title,
-h1.research-title,
-h1.home-title,
-h1.section-title,
-h1 {
-  color: var(--title-color) !important;
-}
-
