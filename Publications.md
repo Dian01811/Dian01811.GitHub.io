@@ -3,8 +3,7 @@ layout: default
 title: Dian Ji (吉点)
 description: Publications
 ---
-
-# <span style="color:black">Publications</span>
+<font size=6>Publications</font>
 --- 
 **Peer-Reviewed Articles**
 
