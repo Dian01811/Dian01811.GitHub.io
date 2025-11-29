@@ -3,7 +3,6 @@ layout: default
 title: Dian Ji (吉点)
 ---
 
-# Welcome
 <h1 class="home-title">Welcome</h1>
 
 
