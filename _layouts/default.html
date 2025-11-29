@@ -21,86 +21,64 @@
   gtag('js', new Date());
 
   gtag('config', 'G-8LPPSJCGTC');
-</script>
+<script>
+  const toggle = document.getElementById("theme-toggle");
+  const saved = localStorage.getItem("theme");
 
-<!-- DARK MODE CSS OVERRIDES -->
-<style>
-  :root {
-    --bg: #ffffff;
-    --text: #222222;
-  }
-  @media (prefers-color-scheme: dark) {
-    :root {
-      --bg: #111111;
-      --text: #eeeeee;
+  // 1. Apply saved theme OR auto theme
+  if (saved === "dark") {
+    document.documentElement.classList.add("dark");
+  } else if (saved === "light") {
+    document.documentElement.classList.add("light");
+  } else {
+    // AUTO MODE → follow system preference
+    if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
+      document.documentElement.classList.add("dark");
+    } else {
+      document.documentElement.classList.add("light");
     }
   }
-  :root.dark {
-    --bg: #111111;
-    --text: #eeeeee;
-  }
-  :root.light {
-    --bg: #ffffff;
-    --text: #222222;
-  }
 
-  body {
-    background: var(--bg) !important;
-    color: var(--text) !important;
-    transition: background 0.3s, color 0.3s;
+  // 2. Update icon based on current theme
+  function updateIcon() {
+    if (document.documentElement.classList.contains("dark")) {
+      toggle.textContent = "🌞";  // dark mode → show sun
+    } else {
+      toggle.textContent = "🌙";  // light mode → show moon
+    }
   }
 
-  /* Toggle button */
-  #theme-toggle {
-    position: fixed;
-    top: 15px;
-    right: 20px;
-    font-size: 28px;
-    cursor: pointer;
-    user-select: none;
-  }
-</style>
+  updateIcon(); // run at load
 
-  </head>
-  <body>
+  // 3. Manual toggle
+  toggle.addEventListener("click", () => {
+    if (document.documentElement.classList.contains("dark")) {
+      document.documentElement.classList.remove("dark");
+      document.documentElement.classList.add("light");
+      localStorage.setItem("theme", "light");
+    } else {
+      document.documentElement.classList.remove("light");
+      document.documentElement.classList.add("dark");
+      localStorage.setItem("theme", "dark");
+    }
+    updateIcon();
+  });
 
-    <!-- DARK MODE TOGGLE ICON -->
-    <div id="theme-toggle">🌙</div>
-
-    <!-- AUTO + MANUAL DARK MODE SCRIPT -->
-    <script>
-      const toggle = document.getElementById("theme-toggle");
-
-      // Load saved theme
-      const saved = localStorage.getItem("theme");
-      if (saved === "dark") {
+  // 4. Update if system theme changes (optional but nice)
+  window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", e => {
+    if (!localStorage.getItem("theme")) {  // only in auto mode
+      if (e.matches) {
+        document.documentElement.classList.remove("light");
         document.documentElement.classList.add("dark");
-      } else if (saved === "light") {
+      } else {
+        document.documentElement.classList.remove("dark");
         document.documentElement.classList.add("light");
       }
-
-      function updateIcon() {
-        if (document.documentElement.classList.contains("dark")) {
-          toggle.textContent = "🌞"; // switch to sun
-        } else {
-          toggle.textContent = "🌙"; // switch to moon
-        }
-      }
       updateIcon();
+    }
+  });
+</script>
 
-      toggle.addEventListener("click", () => {
-        if (document.documentElement.classList.contains("dark")) {
-          document.documentElement.classList.remove("dark");
-          document.documentElement.classList.add("light");
-          localStorage.setItem("theme", "light");
-        } else {
-          document.documentElement.classList.remove("light");
-          document.documentElement.classList.add("dark");
-          localStorage.setItem("theme", "dark");
-        }
-        updateIcon();
-      });
-    </script>
 
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
