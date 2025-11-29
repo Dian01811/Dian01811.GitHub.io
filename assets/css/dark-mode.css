@@ -1,0 +1,159 @@
+/* ---------------------- */
+/* Base defaults (light mode, Cayman-like) */
+/* ---------------------- */
+
+:root {
+  --bg: #ffffff;
+  --text: #222222;
+
+  /* Header NEVER changes */
+  --header-text: #ffffff;
+
+  /* Buttons (transparent like original Cayman) */
+  --btn-bg: transparent;
+  --btn-text: rgba(255, 255, 255, 0.85);
+
+  /* Link color */
+  --link: #0366d6;
+
+  /* Titles */
+  --title-color: #000000;
+}
+
+/* ---------------------- */
+/* Auto dark (system) */
+/* ---------------------- */
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0d1117;
+    --text: #e6edf3;
+
+    /* STILL DO NOT CHANGE HEADER */
+
+    --btn-bg: transparent;
+    --btn-text: #ffffff;
+
+    --link: #58a6ff;
+
+    --title-color: #ffffff;
+  }
+}
+
+/* ---------------------- */
+/* Manual dark */
+/* ---------------------- */
+
+:root.dark {
+  --bg: #0d1117 !important;
+  --text: #e6edf3 !important;
+
+  /* HEADER REMAINS UNTOUCHED */
+
+  --btn-bg: transparent !important;
+  --btn-text: #ffffff !important;
+
+  --link: #58a6ff !important;
+
+  --title-color: #ffffff !important;
+}
+
+/* ---------------------- */
+/* Manual light */
+/* ---------------------- */
+
+:root.light {
+  --bg: #ffffff !important;
+  --text: #222222 !important;
+
+  /* HEADER ALWAYS ORIGINAL */
+
+  --btn-bg: transparent !important;
+  --btn-text: rgba(255, 255, 255, 0.85) !important;
+
+  --link: #0366d6 !important;
+
+  --title-color: #000000 !important;
+}
+
+/* ---------------------- */
+/* Apply to site */
+/* ---------------------- */
+
+body {
+  background: var(--bg) !important;
+  color: var(--text) !important;
+}
+
+/* HEADER — DO NOT CHANGE */
+.page-header {
+  background-image: url(https://dian01811.github.io/files/BS.jpg) !important;
+  background-size: cover !important;
+  background-position: center !important;
+  color: #ffffff !important;
+}
+
+/* Header text */
+.page-header .project-name,
+.page-header .project-tagline {
+  color: #ffffff !important;
+}
+
+/* Header buttons — transparent icons */
+.page-header a.btn {
+  background: transparent !important;
+  color: #ffffff !important;
+  border: 1px solid rgba(255,255,255,0.6) !important;
+  transition: 0.2s ease-in-out;
+}
+
+/* Hover → text white, still transparent */
+.page-header a.btn:hover {
+  color: #ffffff !important;
+  background: rgba(255,255,255,0.12) !important;
+  border-color: #ffffff !important;
+}
+
+/* Normal buttons elsewhere */
+.btn {
+  background: var(--btn-bg) !important;
+  color: var(--btn-text) !important;
+  border: 1px solid rgba(255,255,255,0.6) !important;
+}
+
+.btn:hover {
+  color: #ffffff !important;
+  background: rgba(255,255,255,0.12) !important;
+}
+
+/* Links */
+a:not(.btn):not(.page-header a) {
+  color: var(--link) !important;
+}
+
+/* Titles */
+.home-title,
+.section-title {
+  color: var(--title-color) !important;
+}
+
+/* Footer */
+.site-footer {
+  color: var(--text) !important;
+}
+
+/* Code blocks */
+pre,
+code {
+  background: rgba(128, 128, 128, 0.15) !important;
+  color: var(--text) !important;
+}
+
+/* Tables */
+table {
+  color: var(--text) !important;
+}
+
+tr:nth-child(even) {
+  background: rgba(127,127,127,0.1) !important;
+}
