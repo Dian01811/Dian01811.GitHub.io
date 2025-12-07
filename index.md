@@ -131,7 +131,7 @@ title: Dian Ji (吉点)
 
 <font size=5><strong>News</strong></font>
 
-<strong>Nov 19, 2025: Ji gave a talk on Early Differentiation of the Moon </strong> in the professional development (PD) series for K-12 science teachers organized by The Department of Earth, Environmental and Planetary Sciences at Rice University and Houston Independent School District.
+<strong>Nov 19, 2025: Ji gave a talk on Early Differentiation of the Moon </strong> in the professional development series for K-12 science teachers organized by The Department of Earth, Environmental and Planetary Sciences at Rice University and Houston Independent School District.
 
 <strong>Jul 10, 2025: Ji will supervise a high-school intern, Denim-Leenox Sasser, on high temperature experiments this Summer!</strong> Welcome, Denim!
 
