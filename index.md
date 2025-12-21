@@ -131,7 +131,7 @@ title: Dian Ji (吉点)
 
 <font size=5><strong>News</strong></font>
 
-<strong>Dec 16, 2025: Ji gave a poster presentation on [the impact of magmatic recharge on lunar mantle water budget](https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1898295) at the 2025 AGU Fall Meeting.</strong>
+<strong>Dec 16, 2025: Ji gave a poster presentation on [the impact of magmatic recharge on lunar mantle water budget](https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1898295) at the 2025 AGU Annual Meeting.</strong>
 
 <strong>Nov 19, 2025: Ji gave a talk on Early Differentiation of the Moon </strong> in the professional development series for K-12 science teachers organized by The Department of Earth, Environmental and Planetary Sciences at Rice University and Houston Independent School District.
 
@@ -149,7 +149,7 @@ title: Dian Ji (吉点)
 
 <strong>Dec 16, 2024: Ji won the 2025 Rice Space Institute Center for Planetary Origins to Habitability (CPO2H) graduate fellowship!</strong>
 
-<strong>Dec 13, 2024: Ji gave a poster presentation on [deep sulfur cycle in the young lunar mantle](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1517917) at the 2024 AGU Fall Meeting.</strong>
+<strong>Dec 13, 2024: Ji gave a poster presentation on [deep sulfur cycle in the young lunar mantle](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1517917) at the 2024 AGU Annual Meeting.</strong>
 
 <strong>Jul 6, 2024: Ji will supervise a high-school intern, Aahan Roy, on sulfur solubility experiments of lunar basalt this Summer!</strong> Welcome, Aahan!
 
