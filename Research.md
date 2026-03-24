@@ -4,6 +4,18 @@ title: Dian Ji (吉点)
 description: Research
 ---
 
+<font size=6>Water-rich lunar magma from a water-poor source</font>
+ 
+ [**Ji**, Dasgupta, <em>Geochimica et Cosmochimica Acta</em> (2026)]
+ 
+<img align="right" src="https://dian01811.github.io/files/recharge.jpg" width="350"> 
+  
+<font size=4>&emsp;&emsp;The Moon is widely believed to have formed by a giant impact. Such an energetic process should have evaporated most of the volatile elements on the Moon. However, recent petrologic studies of melt inclusions and glasses argued that the lunar mantle contains more water than expected. In particular, water abundances measured in Apollo 74220 melt inclusions can be as high as 1563 ppm, making it possible for water abundances in the lunar mantle to overlap with those in the terrestrial mantle. Here, we found that the compositional trend of Apollo 74220 inclusions can be reproduced by magma recharge, a process that buffers the compatible elements of magma and continuously increases the abundance of incompatible elements, including volatiles, leading to an overestimation of the volatile budget. We reconstructed the volatile compositions of the Apollo 74220 source region and found the water content could be as low as 1-22 ppm, indicating this anomalously water-enriched sample can be derived from a water-poor source.</font>
+
+<div style="clear: both;"></div>
+
+<br><br>
+
 <font size=6>The existence of garnet in the source of young lunar mare basalts</font>
  
  [**Ji**, Dasgupta, <em>Lunar and Planetary Science Conference</em> (2025)](https://www.hou.usra.edu/meetings/lpsc2025/pdf/1332.pdf)
