@@ -7,7 +7,7 @@ description: Publications
 --- 
 **Peer-Reviewed Articles**
 
-(7) **D. Ji**, R. Dasgupta, C.T. Lee, (2026) The effects of magmatic recharge on primary lunar melt compositions: Implications for the water and other volatile budget of the Moon. <em>Geochimica et Cosmochimica Acta</em>. <em>accepted</em>
+(7) **D. Ji**, R. Dasgupta, C.T. Lee, (2026) The effects of magmatic recharge on primary lunar melt compositions: Implications for the water and other volatile budget of the Moon. <em>Geochimica et Cosmochimica Acta</em>. [doi.org/10.1016/j.gca.2026.03.042](https://doi.org/10.1016/j.gca.2026.03.042)<br>
 
 (6) Y. Zhang, R. Dasgupta, **D. Ji**, C. Lee, Y. Peng, B. Charlier, Z. Jin, J. Chen, O. Namur, (2025) Mantle melting conditions of mare lavas on South Pole–Aitken basin of lunar farside. <em>Geophysical Research Letters</em>. [doi.org/10.1029/2024GL112418](https://doi.org/10.1029/2024GL112418)<br>
 
