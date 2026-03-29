@@ -6,7 +6,7 @@ description: Research
 
 <font size=6>Water-rich lunar magma from a water-poor source</font>
  
- [**Ji**, Dasgupta, <em>Geochimica et Cosmochimica Acta</em> (2026)](https://doi.org/10.1016/j.gca.2026.03.042)
+ [**Ji**, Dasgupta, Lee, <em>Geochimica et Cosmochimica Acta</em> (2026)](https://doi.org/10.1016/j.gca.2026.03.042)
  
 <img align="right" src="https://dian01811.github.io/files/recharge.jpg" width="350"> 
   
