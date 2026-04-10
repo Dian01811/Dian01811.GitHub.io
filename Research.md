@@ -3,7 +3,7 @@ layout: default
 title: Dian Ji (吉点)
 description: Research
 ---
-<font size=6>Lunar Volatiles</font><br>
+**<font size=6>Lunar Volatiles</font>**<br>
 
 <font size=5>Water-rich lunar magma from a water-poor source</font>
  
