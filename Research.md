@@ -3,7 +3,7 @@ layout: default
 title: Dian Ji (吉点)
 description: Research
 ---
-<div style="position: sticky; top: 0; background: white; padding: 10px 0; z-index: 999; border-bottom: 1px solid #ddd;">
+<div style="position: sticky; top: 0; background: var(--bg); color: var(--text); padding: 10px 0; z-index: 999; border-bottom: 1px solid #ddd;">
 <b>Research Areas:</b>
 <a href="#lunar-volatiles">Lunar Volatiles</a> |
 <a href="#lunar-magmatism">Lunar Magmatism and Evolution</a> |
