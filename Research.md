@@ -3,7 +3,7 @@ layout: default
 title: Dian Ji (吉点)
 description: Research
 ---
-<font size=6>Lunar Volatiles</font>
+<font size=6>Lunar Volatiles</font><br>
 
 <font size=5>Water-rich lunar magma from a water-poor source</font>
  
@@ -29,7 +29,7 @@ description: Research
 
 <br><br>
 
-<font size=6>Lunar Magmatism and Crust–Mantle Evolution</font>
+<font size=6>Lunar Magmatism and Crust–Mantle Evolution</font><br>
 
 <font size=5>The existence of garnet in the source of young lunar mare basalts</font>
  
@@ -55,7 +55,7 @@ description: Research
 
 <br><br>
 
-<font size=6>Trace Elemental Partitioning and Tool Development</font>
+<font size=6>Trace Elemental Partitioning and Tool Development</font><br>
 
 <font size=5>Trace element partitioning between apatite and silicate melts</font>
  
@@ -69,9 +69,10 @@ description: Research
 
 <br><br>
 
-Lunar Magmatism and Crust–Mantle Evolution
 
-<font size=5>Terrestrial Magmatism</font>
+<font size=6>Terrestrial Magmatism</font><br>
+
+<font size=5>The petrogenesis of early Cretaceous adakitic rocks in Northeast China</font>
 
 [**Ji**, Liu, Li, <em>International Geology Review</em> (2020)](https://doi.org/10.1080/00206814.2019.1697968)
 
