@@ -4,7 +4,7 @@ title: Dian Ji (吉点)
 description: Research
 ---
 
-<font size=6>Water-rich lunar magma from a water-poor source</font>
+<font size=4>Water-rich lunar magma from a water-poor source</font>
  
  [**Ji**, Dasgupta, Lee, <em>Geochimica et Cosmochimica Acta</em> (2026)](https://doi.org/10.1016/j.gca.2026.03.042)
  
