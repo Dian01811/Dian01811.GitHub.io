@@ -75,8 +75,8 @@ description: Research
 
 <br><br>
 
-<a id="trace-element-partitioning"></a>
-**<font size=6>Trace Elemental Partitioning and Tool Development</font>**<br>
+<a id="trace-elements"></a>
+**<font size=6>Trace Element Partitioning and Tool Development</font>**<br>
 
 <font size=5>Trace element partitioning between apatite and silicate melts</font>
  
