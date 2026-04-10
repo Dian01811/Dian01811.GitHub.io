@@ -17,7 +17,7 @@ description: Research
 
 <br><br>
 
-<font size=6>The existence of garnet in the source of young lunar mare basalts</font>
+<font size=5>The existence of garnet in the source of young lunar mare basalts</font>
  
  [**Ji**, Dasgupta, <em>Lunar and Planetary Science Conference</em> (2025)](https://www.hou.usra.edu/meetings/lpsc2025/pdf/1332.pdf)
  
@@ -29,7 +29,7 @@ description: Research
 
 <br><br>
 
-<font size=6>Sulfur inventory of the young lunar mantle</font>
+<font size=5>Sulfur inventory of the young lunar mantle</font>
  
  [**Ji**, Dasgupta, <em>Geochimica et Cosmochimica Acta</em> (2025)](https://doi.org/10.1016/j.gca.2025.02.019)
  
@@ -41,7 +41,7 @@ description: Research
 
 <br><br>
 
-<font size=6>Trace element partitioning between apatite and silicate melts</font>
+<font size=5>Trace element partitioning between apatite and silicate melts</font>
  
  [**Ji**, Dygert, <em>Geochimica et Cosmochimica Acta</em> (2024)](https://doi.org/10.1016/j.gca.2023.11.004)
  
@@ -53,7 +53,7 @@ description: Research
 
 <br><br>
 
-<font size=6>Serial processing of the lunar crust</font>
+<font size=5>Serial processing of the lunar crust</font>
 
 [**Ji**, Dygert, <em>Earth and Planetary Science Letters</em> (2023)](https://doi.org/10.1016/j.epsl.2022.117958)
  
@@ -65,7 +65,7 @@ description: Research
 
 <br><br>
 
-<font size=6>The petrogenesis of early Cretaceous adakitic rocks in Northeast China</font>
+<font size=5>The petrogenesis of early Cretaceous adakitic rocks in Northeast China</font>
 
 [**Ji**, Liu, Li, <em>International Geology Review</em> (2020)](https://doi.org/10.1080/00206814.2019.1697968)
 
