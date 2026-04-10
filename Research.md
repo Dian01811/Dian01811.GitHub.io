@@ -3,6 +3,17 @@ layout: default
 title: Dian Ji (吉点)
 description: Research
 ---
+<div style="position: sticky; top: 0; background: white; padding: 10px 0; z-index: 999; border-bottom: 1px solid #ddd;">
+<b>Research Areas:</b>
+<a href="#lunar-volatiles">Volatiles</a> |
+<a href="#lunar-magmatism">Magmatism</a> |
+<a href="#trace-elements">Trace Elements</a> |
+<a href="#terrestrial-magmatism">Terrestrial</a>
+</div>
+
+<br>
+
+<a id="lunar-volatiles"></a>
 **<font size=6>Lunar Volatiles</font>**<br>
 
 <font size=5>Water-rich lunar magma from a water-poor source</font>
@@ -29,6 +40,7 @@ description: Research
 
 <br><br>
 
+<a id="lunar-magmatism"></a>
 **<font size=6>Lunar Magmatism and Crust–Mantle Evolution</font>**<br>
 
 <font size=5>The existence of garnet in the source of young lunar mare basalts</font>
@@ -63,6 +75,7 @@ description: Research
 
 <br><br>
 
+<a id="trace-element-partitioning"></a>
 **<font size=6>Trace Elemental Partitioning and Tool Development</font>**<br>
 
 <font size=5>Trace element partitioning between apatite and silicate melts</font>
@@ -85,7 +98,7 @@ description: Research
 
 <br><br>
 
-
+<a id="terrestrial-magmatism"></a>
 **<font size=6>Terrestrial Magmatism</font>**<br>
 
 <font size=5>The petrogenesis of early Cretaceous adakitic rocks in Northeast China</font>
