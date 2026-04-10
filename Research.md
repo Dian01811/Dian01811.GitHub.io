@@ -17,18 +17,6 @@ description: Research
 
 <br><br>
 
-<font size=5>The existence of garnet in the source of young lunar mare basalts</font>
- 
- [**Ji**, Dasgupta, <em>Lunar and Planetary Science Conference</em> (2025)](https://www.hou.usra.edu/meetings/lpsc2025/pdf/1332.pdf)
- 
-<img align="right" src="https://dian01811.github.io/files/grt.jpg" width="350"> 
-  
-<font size=4>&emsp;&emsp;The Chang’e-5 mare basalts are the youngest returned lunar mare basalts to data (~2 Ga), offering insights into young lunar magmatism and providing valuable clues about the temporal evolution of the lunar mantle. In this study, we conducted high-pressure and high-temperature experiments, thermodynamic modeling, and trace element modeling, revealing that garnet is a stable phase in the young lunar mantle but may not have been present in the older Apollo low-Ti basalt source mantle. This discrepancy could result from mantle heterogeneity caused by lunar cumulate mantle overturn. This heterogeneous mantle survived the subsequent geodynamic evolution of the lunar interior and was preserved until ~2 Ga.</font>
-
-<div style="clear: both;"></div>
-
-<br><br>
-
 <font size=5>Sulfur inventory of the young lunar mantle</font>
  
  [**Ji**, Dasgupta, <em>Geochimica et Cosmochimica Acta</em> (2025)](https://doi.org/10.1016/j.gca.2025.02.019)
@@ -41,13 +29,15 @@ description: Research
 
 <br><br>
 
-<font size=5>Trace element partitioning between apatite and silicate melts</font>
+<font size=6>Lunar Magmatism and Crust–Mantle Evolution</font>
+
+<font size=5>The existence of garnet in the source of young lunar mare basalts</font>
  
- [**Ji**, Dygert, <em>Geochimica et Cosmochimica Acta</em> (2024)](https://doi.org/10.1016/j.gca.2023.11.004)
+ [**Ji**, Dasgupta, <em>Lunar and Planetary Science Conference</em> (2025)](https://www.hou.usra.edu/meetings/lpsc2025/pdf/1332.pdf)
  
-<img align="right" src="https://dian01811.github.io/files/Apt_model.jpg" width="350"> 
+<img align="right" src="https://dian01811.github.io/files/grt.jpg" width="350"> 
   
-<font size=4>&emsp;&emsp;This project is aimed at understanding the partitioning behavior between apatite and silicate melts, and developing predictive models through a lens of high temperature and pressure experiments. We determine the effect of equilibrium temperature on the trace elements partitioning in apatite and analyze the partition coefficient between silicate melts and synthetic different end-member apatite (FlAp, OHAp and ClAp) to test the effect of X-site (F, OH, Cl) occupancy. We will build predictive models to calculate the partition coefficients of trace elements between apatite and silicate melts. In addition, a series of experiments with constant initial composition but different metal buffers in piston cylinder apparatus will be conducted to characterize the Eu anomaly of apatite under different oxygen fugacities.</font>
+<font size=4>&emsp;&emsp;The Chang’e-5 mare basalts are the youngest returned lunar mare basalts to data (~2 Ga), offering insights into young lunar magmatism and providing valuable clues about the temporal evolution of the lunar mantle. In this study, we conducted high-pressure and high-temperature experiments, thermodynamic modeling, and trace element modeling, revealing that garnet is a stable phase in the young lunar mantle but may not have been present in the older Apollo low-Ti basalt source mantle. This discrepancy could result from mantle heterogeneity caused by lunar cumulate mantle overturn. This heterogeneous mantle survived the subsequent geodynamic evolution of the lunar interior and was preserved until ~2 Ga.</font>
 
 <div style="clear: both;"></div>
 
@@ -65,7 +55,23 @@ description: Research
 
 <br><br>
 
-<font size=5>The petrogenesis of early Cretaceous adakitic rocks in Northeast China</font>
+<font size=6>Trace Elemental Partitioning and Tool Development</font>
+
+<font size=5>Trace element partitioning between apatite and silicate melts</font>
+ 
+ [**Ji**, Dygert, <em>Geochimica et Cosmochimica Acta</em> (2024)](https://doi.org/10.1016/j.gca.2023.11.004)
+ 
+<img align="right" src="https://dian01811.github.io/files/Apt_model.jpg" width="350"> 
+  
+<font size=4>&emsp;&emsp;This project is aimed at understanding the partitioning behavior between apatite and silicate melts, and developing predictive models through a lens of high temperature and pressure experiments. We determine the effect of equilibrium temperature on the trace elements partitioning in apatite and analyze the partition coefficient between silicate melts and synthetic different end-member apatite (FlAp, OHAp and ClAp) to test the effect of X-site (F, OH, Cl) occupancy. We will build predictive models to calculate the partition coefficients of trace elements between apatite and silicate melts. In addition, a series of experiments with constant initial composition but different metal buffers in piston cylinder apparatus will be conducted to characterize the Eu anomaly of apatite under different oxygen fugacities.</font>
+
+<div style="clear: both;"></div>
+
+<br><br>
+
+Lunar Magmatism and Crust–Mantle Evolution
+
+<font size=5>Terrestrial Magmatism</font>
 
 [**Ji**, Liu, Li, <em>International Geology Review</em> (2020)](https://doi.org/10.1080/00206814.2019.1697968)
 
