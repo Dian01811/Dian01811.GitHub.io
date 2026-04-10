@@ -53,6 +53,11 @@ description: Research
 
 <div style="clear: both;"></div>
 
+<font size=5>Mantle melting conditions of mare lavas on South Pole–Aitken basin of lunar farside</font>
+ 
+ [Zhang, Dasgupta,, **Ji**, Li, Peng, Charlier, Jin, Chen, Namur <em>Geophysical Research Letters</em> (2025)]( https://doi.org/10.1029/2024GL112418)
+
+
 <br><br>
 
 <font size=6>Trace Elemental Partitioning and Tool Development</font><br>
