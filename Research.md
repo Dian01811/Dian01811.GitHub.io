@@ -53,10 +53,13 @@ description: Research
 
 <div style="clear: both;"></div>
 
+<br><br>
+
 <font size=5>Mantle melting conditions of mare lavas on South Pole–Aitken basin of lunar farside</font>
  
  [Zhang, Dasgupta,, **Ji**, Li, Peng, Charlier, Jin, Chen, Namur, <em>Geophysical Research Letters</em> (2025)]( https://doi.org/10.1029/2024GL112418)
 
+<div style="clear: both;"></div>
 
 <br><br>
 
@@ -70,6 +73,14 @@ description: Research
   
 <font size=4>&emsp;&emsp;This project is aimed at understanding the partitioning behavior between apatite and silicate melts, and developing predictive models through a lens of high temperature and pressure experiments. We determine the effect of equilibrium temperature on the trace elements partitioning in apatite and analyze the partition coefficient between silicate melts and synthetic different end-member apatite (FlAp, OHAp and ClAp) to test the effect of X-site (F, OH, Cl) occupancy. We will build predictive models to calculate the partition coefficients of trace elements between apatite and silicate melts. In addition, a series of experiments with constant initial composition but different metal buffers in piston cylinder apparatus will be conducted to characterize the Eu anomaly of apatite under different oxygen fugacities.</font>
 
+<div style="clear: both;"></div>
+
+<br><br>
+
+<font size=5>A predictive model for divalent element partitioning between clinopyroxene and basaltic melt and a europium-in-plagioclase-clinopyroxene oxybarometer for cumulate rocks.</font>
+ 
+[Dygert, **Ji**, Etheridge <em>Geochimica et Cosmochimica Acta</em> (2025)](https://doi.org/10.1016/j.gca.2025.02.003)
+ 
 <div style="clear: both;"></div>
 
 <br><br>
