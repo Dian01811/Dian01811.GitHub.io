@@ -24,7 +24,6 @@ description: Research
   
 <font size=4>&emsp;&emsp;The Moon is widely believed to have formed by a giant impact. Such an energetic process should have evaporated most of the volatile elements on the Moon. However, recent petrologic studies of melt inclusions and glasses argued that the lunar mantle contains more water than expected. In particular, water abundances measured in Apollo 74220 melt inclusions can be as high as 1563 ppm, making it possible for water abundances in the lunar mantle to overlap with those in the terrestrial mantle. Here, we found that the compositional trend of Apollo 74220 inclusions can be reproduced by magma recharge, a process that buffers the compatible elements of magma and continuously increases the abundance of incompatible elements, including volatiles, leading to an overestimation of the volatile budget. We reconstructed the volatile compositions of the Apollo 74220 source region and found the water content could be as low as 1-22 ppm, indicating this anomalously water-enriched sample can be derived from a water-poor source.  <a href="https://dian01811.github.io/files/Ji_GCA_2026.pdf">[pdf]</a></font>
 
-
 <div style="clear: both;"></div>
 
 <br><br>
@@ -37,7 +36,7 @@ description: Research
   
 <font size=4>&emsp;&emsp;Early sulfur solubility experiments with Apollo sample compositions suggested the lunar mantle is sulfide exhausted. However, the existence of S-poor, Fe-rich, high metal/sulfur ratio sulfide, which may be stable under the low oxygen fugacities associated with the lunar mantle, could lower the sulfur concentrations at sulfide saturation (SCSS) dramatically, resulting in the residual mantle to remain S-saturated. To add to the debate on the fate of sulfide in the lunar mantle, we present new SCSS experiments for the putative parental melts of young Chang’e-5 (CE-5) basalt. We further developed a new thermodynamic SCSS model for the saturation of silicate melts with sulfides of variable S contents. Combining our experiments and model calculations, we found that the CE-5 mantle residue was likely sulfide-absent. Compared with the mantle of Apollo basalts, the ~2 Gyrs lunar mantle has much lower S abundances, which may suggest sulfur extraction over the magmatic history of the Moon.  <a href="https://dian01811.github.io/files/Ji_GCA_2025.pdf">[pdf]</a></font>
 
-
+<div style="clear: both;"></div>
 
 <br><br>
 
