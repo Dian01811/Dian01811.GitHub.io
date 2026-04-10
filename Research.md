@@ -5,10 +5,10 @@ description: Research
 ---
 <div style="position: sticky; top: 0; background: white; padding: 10px 0; z-index: 999; border-bottom: 1px solid #ddd;">
 <b>Research Areas:</b>
-<a href="#lunar-volatiles">Volatiles</a> |
-<a href="#lunar-magmatism">Magmatism</a> |
-<a href="#trace-elements">Trace Elements</a> |
-<a href="#terrestrial-magmatism">Terrestrial</a>
+<a href="#lunar-volatiles">Lunar Volatiles</a> |
+<a href="#lunar-magmatism">Magmatism and Crust–Mantle Evolution</a> |
+<a href="#trace-elements">Trace Element Partitioning and Tool Development</a> |
+<a href="#terrestrial-magmatism">Terrestrial Magmatism</a>
 </div>
 
 <br>
