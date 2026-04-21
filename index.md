@@ -165,7 +165,7 @@ title: Dian Ji (吉点)
 
 <strong>Nov 3, 2023: [Ji’s paper on apatite-melt trace element partitioning was accepted for publication in <em>Geochimica et Cosmochimia Acta</em>](https://doi.org/10.1016/j.gca.2023.11.004)!</strong>
 
-<strong>Oct 13, 2023: Ji participated in a field trip regarding igneous and metamorphic rocks in Valles Caldera, Los Alamos Surge Deposits, Bandelier National Monument, and Rio Grande Gorge.</strong>
+<strong>Oct 13, 2023: Ji participated in a field trip</strong> regarding igneous and metamorphic rocks in Valles Caldera, Los Alamos Surge Deposits, Bandelier National Monument, and Rio Grande Gorge.
 
 <strong>Aug 15, 2023: Ji was awarded the Chair’s Fellowship by the Department of Earth, Environmental and Planetary Sciences, Rice University.</strong>
 
@@ -173,7 +173,7 @@ title: Dian Ji (吉点)
 
 <strong>Jul 6, 2023: Ji defended his MS Thesis!</strong>
 
-<strong>May 4, 2023: Ji was awarded the Virginia & James Bibee Graduate Student Professional Promise Award and the Excellence in Teaching by GTA’s Award by Department of Earth, Environmental, and Planetary Sciences, University of Tennessee.</strong>
+<strong>May 4, 2023: Ji was awarded the Virginia & James Bibee Graduate Student Professional Promise Award and the Excellence in Teaching by GTA’s Award</strong> by Department of Earth, Environmental, and Planetary Sciences, University of Tennessee.
 
 <strong>May 3, 2023: Ji was awarded a [MSA grant in Mineralogy-Petrology Research](https://msaweb.org/mineralogy-petrology-grant/)!</strong>
 
@@ -183,17 +183,17 @@ title: Dian Ji (吉点)
 
 <strong>Dec 7, 2022: [Ji’s paper on lunar anorthositic crust was accepted in <em>Earth and Planetary Science Letters</em>](https://doi.org/10.1016/j.epsl.2022.117958)!</strong> 
 
-<strong>Sep 30, 2022: Ji participated in the Rio Grande Rift xenolith sampling expedition in New Mexico, collecting mantle and crustal xenoliths.</strong>
+<strong>Sep 30, 2022: Ji participated in the Rio Grande Rift xenolith sampling expedition in New Mexico</strong>, collecting mantle and crustal xenoliths.
 
-<strong>May 5, 2022: Ji received the Jimmy Walls Colloquium Presentation Award from the Department of Earth, Environmental, and Planetary Sciences, University of Tennessee.</strong>
+<strong>May 5, 2022: Ji received the Jimmy Walls Colloquium Presentation Award</strong> from the Department of Earth, Environmental, and Planetary Sciences, University of Tennessee.
 
 <strong>Mar 13, 2022: Ji gave a talk presentation on [lunar anorthositic crust](https://www.hou.usra.edu/meetings/lpsc2022/pdf/1229.pdf) at the 53rd Lunar and Planetary Science Conference.</strong>
 
-<strong>Mar 13, 2022: Ji attended the McClung Blue Ridge Foothills Field Trip, studying the Appalachian foreland fold-thrust belt transition.</strong>
+<strong>Mar 13, 2022: Ji attended the McClung Blue Ridge Foothills Field Trip</strong>, studying the Appalachian foreland fold-thrust belt transition.
 
 <strong>Jul 6, 2021: [Ji gave a talk presentation at the 2021 Goldschmidt meeting](https://conf.goldschmidt.info/goldschmidt/2021/meetingapp.cgi/Paper/3219)!</strong>
 
-<strong>Jun 1, 2021: Ji arrived in Knoxville to begin his graduate adventure!</strong> 
+<strong>Jun 1, 2021: Ji arrived in Knoxville</strong> to begin his graduate adventure!
 
 <strong>Oct 19, 2020: Ji was awarded the Li Siguang Outstanding Student Award!</strong> This is the highest undergraduate geoscience award in China.
 
