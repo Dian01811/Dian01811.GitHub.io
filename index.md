@@ -151,7 +151,7 @@ title: Dian Ji (吉点)
 
 <strong>Feb 17, 2025: [Ji’s paper on sulfur budget of the young lunar mantle was accepted for publication in <em>Geochimica et Cosmochimia Acta</em>](https://doi.org/10.1016/j.gca.2025.02.019)!</strong>
 
-<strong>Feb 3, 2025: Ji co-authored a paper on the effects of magmatic recharge on trace element partitioning between clinopyroxene and silicate melts, accepted for publication in [<em>Geochimica et Cosmochimica Acta</em>](https://doi.org/10.1016/j.gca.2025.02.003).</strong>
+<strong>Feb 3, 2025: Ji co-authored a paper on the trace element partitioning between clinopyroxene and silicate melts, accepted for publication in [<em>Geochimica et Cosmochimica Acta</em>](https://doi.org/10.1016/j.gca.2025.02.003).</strong>
 
 <strong>Dec 16, 2024: Ji won the 2025 Rice Space Institute Center for Planetary Origins to Habitability (CPO2H) graduate fellowship!</strong>
 
