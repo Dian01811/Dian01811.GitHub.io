@@ -143,11 +143,15 @@ title: Dian Ji (吉点)
 
 <strong>Apr 17, 2025: Ji passed his PhD Qualifying Exam!</strong>
 
+<strong>Mar 24, 2025: A paper co-authored by Ji on the mantle melting conditions of lunar basalts on South Pole–Aitken Basin was accepted for publication in [<em>Geophysical Research Letters</em>](https://doi.org/10.1029/2024GL112418).</strong>
+
 <strong>Mar 10, 2025: Ji gave a talk presentation on [existence of garnet in the source of young lunar mare basalts](https://www.hou.usra.edu/meetings/lpsc2025/pdf/1332.pdf) at the 56th Lunar and Planetary Science Conference.</strong>
 
 <strong>Feb 21, 2025: Ji gave a talk on the sulfur budget of the young lunar mantle and the origin of the Chang’e-5 mare basalts at the [Geochemistry/Minerology/Petrology (GMP) Lunch Bunch](https://events.brown.edu/earth-environmental-planetary/event/305456-gmp-lunch-bunch-dian-ji) at Brown University!</strong>
 
 <strong>Feb 17, 2025: [Ji’s paper on sulfur budget of the young lunar mantle was accepted for publication in <em>Geochimica et Cosmochimia Acta</em>](https://doi.org/10.1016/j.gca.2025.02.019)!</strong>
+
+<strong>Feb 3, 2025: Ji co-authored a paper on the effects of magmatic recharge on trace element partitioning between clinopyroxene and silicate melts, accepted for publication in [<em>Geochimica et Cosmochimica Acta</em>](https://doi.org/10.1016/j.gca.2025.02.003).</strong>
 
 <strong>Dec 16, 2024: Ji won the 2025 Rice Space Institute Center for Planetary Origins to Habitability (CPO2H) graduate fellowship!</strong>
 
