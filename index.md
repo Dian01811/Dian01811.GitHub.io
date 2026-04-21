@@ -133,19 +133,19 @@ title: Dian Ji (吉点)
 
 <strong>Mar 24, 2026: [Ji’s paper about the effects of magmatic recharge on lunar volatile budget was accepted for publication in <em>Geochimica et Cosmochimia Acta</em>](https://doi.org/10.1016/j.gca.2026.03.042)!</strong>
 
-<strong>Dec 16, 2025: Ji gave a poster presentation on [the impact of magmatic recharge on lunar mantle water budget](https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1898295) at the 2025 AGU Annual Meeting.</strong>
+<strong>Dec 16, 2025: Ji gave a poster presentation on [the impact of magmatic recharge on lunar mantle water budget](https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1898295)</strong> at the 2025 AGU Annual Meeting.
 
 <strong>Nov 19, 2025: Ji gave a talk on Early Differentiation of the Moon </strong> in the professional development series for K-12 science teachers organized by The Department of Earth, Environmental and Planetary Sciences at Rice University and Houston Independent School District.
 
 <strong>Jul 10, 2025: Ji will supervise a high-school intern, Denim-Leenox Sasser, on high temperature experiments this Summer!</strong> Welcome, Denim!
 
-<strong>May 9, 2025: Ji was awarded the [Torkild Reiber Award](https://eeps.rice.edu/news/2025/2025-faculty-staff-and-student-awards) by the Department of Earth, Environmental and Planetary Sciences, Rice University.</strong>
+<strong>May 9, 2025: Ji was awarded the [Torkild Reiber Award](https://eeps.rice.edu/news/2025/2025-faculty-staff-and-student-awards)</strong> by the Department of Earth, Environmental and Planetary Sciences, Rice University.
 
 <strong>Apr 17, 2025: Ji passed his PhD Qualifying Exam!</strong>
 
 <strong>Mar 24, 2025: A paper co-authored by Ji on the mantle melting conditions of lunar basalts on South Pole–Aitken Basin was accepted for publication in [<em>Geophysical Research Letters</em>](https://doi.org/10.1029/2024GL112418).</strong>
 
-<strong>Mar 10, 2025: Ji gave a talk presentation on [existence of garnet in the source of young lunar mare basalts](https://www.hou.usra.edu/meetings/lpsc2025/pdf/1332.pdf) at the 56th Lunar and Planetary Science Conference.</strong>
+<strong>Mar 10, 2025: Ji gave a talk presentation on [existence of garnet in the source of young lunar mare basalts](https://www.hou.usra.edu/meetings/lpsc2025/pdf/1332.pdf)</strong> at the 56th Lunar and Planetary Science Conference.
 
 <strong>Feb 21, 2025: Ji gave a talk on the sulfur budget of the young lunar mantle and the origin of the Chang’e-5 mare basalts at the [Geochemistry/Minerology/Petrology (GMP) Lunch Bunch](https://events.brown.edu/earth-environmental-planetary/event/305456-gmp-lunch-bunch-dian-ji) at Brown University!</strong>
 
@@ -155,19 +155,19 @@ title: Dian Ji (吉点)
 
 <strong>Dec 16, 2024: Ji won the 2025 Rice Space Institute Center for Planetary Origins to Habitability (CPO2H) graduate fellowship!</strong>
 
-<strong>Dec 13, 2024: Ji gave a poster presentation on [deep sulfur cycle in the young lunar mantle](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1517917) at the 2024 AGU Annual Meeting.</strong>
+<strong>Dec 13, 2024: Ji gave a poster presentation on [deep sulfur cycle in the young lunar mantle](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1517917)</strong> at the 2024 AGU Annual Meeting.
 
 <strong>Jul 6, 2024: Ji will supervise a high-school intern, Aahan Roy, on sulfur solubility experiments of lunar basalt this Summer!</strong> Welcome, Aahan!
 
 <strong>Apr 3, 2024: Ji passed his written Preliminary Exam!</strong>
 
-<strong>Mar 12, 2024: Ji gave a talk presentation on [a new europium in apatite-plagioclase oxybarometer](https://www.hou.usra.edu/meetings/lpsc2024/pdf/1240.pdf) at the 55th Lunar and Planetary Science Conference.</strong>
+<strong>Mar 12, 2024: Ji gave a talk presentation on [a new europium in apatite-plagioclase oxybarometer](https://www.hou.usra.edu/meetings/lpsc2024/pdf/1240.pdf)</strong> at the 55th Lunar and Planetary Science Conference.
 
 <strong>Nov 3, 2023: [Ji’s paper on apatite-melt trace element partitioning was accepted for publication in <em>Geochimica et Cosmochimia Acta</em>](https://doi.org/10.1016/j.gca.2023.11.004)!</strong>
 
 <strong>Oct 13, 2023: Ji participated in a field trip</strong> regarding igneous and metamorphic rocks in Valles Caldera, Los Alamos Surge Deposits, Bandelier National Monument, and Rio Grande Gorge.
 
-<strong>Aug 15, 2023: Ji was awarded the Chair’s Fellowship by the Department of Earth, Environmental and Planetary Sciences, Rice University.</strong>
+<strong>Aug 15, 2023: Ji was awarded the Chair’s Fellowship</strong> by the Department of Earth, Environmental and Planetary Sciences, Rice University.
 
 <strong>Aug 1, 2023: Ji moved on to the PhD program at Rice University.</strong> Bye, Tennessee!
 
@@ -179,7 +179,7 @@ title: Dian Ji (吉点)
 
 <strong>Mar 15, 2023: In the PhD program application, Ji received offers of admission from all applied programs</strong>, including Caltech, University of Chicago, University of Michigan, Rice University, UT Austin, and University of Minnesota!
 
-<strong>Mar 13, 2023: Ji gave a talk presentation on [apatite-melt trace element partitioning](https://www.hou.usra.edu/meetings/lpsc2023/pdf/1255.pdf) at the 54th Lunar and Planetary Science Conference.</strong>
+<strong>Mar 13, 2023: Ji gave a talk presentation on [apatite-melt trace element partitioning](https://www.hou.usra.edu/meetings/lpsc2023/pdf/1255.pdf)</strong> at the 54th Lunar and Planetary Science Conference.
 
 <strong>Dec 7, 2022: [Ji’s paper on lunar anorthositic crust was accepted in <em>Earth and Planetary Science Letters</em>](https://doi.org/10.1016/j.epsl.2022.117958)!</strong> 
 
@@ -187,7 +187,7 @@ title: Dian Ji (吉点)
 
 <strong>May 5, 2022: Ji received the Jimmy Walls Colloquium Presentation Award</strong> from the Department of Earth, Environmental, and Planetary Sciences, University of Tennessee.
 
-<strong>Mar 13, 2022: Ji gave a talk presentation on [lunar anorthositic crust](https://www.hou.usra.edu/meetings/lpsc2022/pdf/1229.pdf) at the 53rd Lunar and Planetary Science Conference.</strong>
+<strong>Mar 13, 2022: Ji gave a talk presentation on [lunar anorthositic crust](https://www.hou.usra.edu/meetings/lpsc2022/pdf/1229.pdf)</strong> at the 53rd Lunar and Planetary Science Conference.
 
 <strong>Mar 13, 2022: Ji attended the McClung Blue Ridge Foothills Field Trip</strong>, studying the Appalachian foreland fold-thrust belt transition.
 
