@@ -131,7 +131,7 @@ title: Dian Ji (吉点)
 
 <font size=5><strong>News</strong></font>
 
-<strong>Apr 27, 2026: Ji co-authored, under the leadership of [Dr. Cin-Ty Lee](https://profiles.rice.edu/faculty/cin-ty-lee), a paper on the formation of highly evolved silicic magmas through incremental differentiation and melt extraction across interconnected transcrustal magma systems, was accepted for publication in <em>Lithos</em>.</strong>
+<strong>Apr 27, 2026: Ji co-authored, under the leadership of [Dr. Cin-Ty Lee](https://profiles.rice.edu/faculty/cin-ty-lee), a paper on the formation of highly evolved silicic magmas through incremental differentiation and melt extraction across interconnected transcrustal magma systems, accepted for publication in <em>Lithos</em>.</strong>
 
 <strong>Mar 24, 2026: [Ji’s paper about the effects of magmatic recharge on lunar volatile budget was accepted for publication in <em>Geochimica et Cosmochimia Acta</em>](https://doi.org/10.1016/j.gca.2026.03.042)!</strong>
 
@@ -145,7 +145,7 @@ title: Dian Ji (吉点)
 
 <strong>Apr 17, 2025: Ji passed his PhD Qualifying Exam!</strong>
 
-<strong>Mar 24, 2025: A paper co-authored by Ji on the mantle melting conditions of lunar basalts on South Pole–Aitken Basin was accepted for publication in [<em>Geophysical Research Letters</em>](https://doi.org/10.1029/2024GL112418).</strong>
+<strong>Mar 24, 2025: A paper co-authored by Ji, led by [Dr. Yishen Zhang](https://eazzzon.github.io), on the mantle melting conditions of lunar basalts on South Pole–Aitken Basin was accepted for publication in [<em>Geophysical Research Letters</em>](https://doi.org/10.1029/2024GL112418).</strong>
 
 <strong>Mar 10, 2025: Ji gave a talk presentation on [existence of garnet in the source of young lunar mare basalts](https://www.hou.usra.edu/meetings/lpsc2025/pdf/1332.pdf)</strong> at the 56th Lunar and Planetary Science Conference.
 
@@ -153,7 +153,7 @@ title: Dian Ji (吉点)
 
 <strong>Feb 17, 2025: [Ji’s paper on sulfur budget of the young lunar mantle was accepted for publication in <em>Geochimica et Cosmochimia Acta</em>](https://doi.org/10.1016/j.gca.2025.02.019)!</strong>
 
-<strong>Feb 3, 2025: Ji co-authored a paper on the trace element partitioning between clinopyroxene and silicate melts, accepted for publication in [<em>Geochimica et Cosmochimica Acta</em>](https://doi.org/10.1016/j.gca.2025.02.003).</strong>
+<strong>Feb 3, 2025: Ji co-authored a paper led by [Dr. Nick Dygert](https://dygert.utk.edu/nick-dygert/) on the trace element partitioning between clinopyroxene and silicate melts, which was accepted for publication in [<em>Geochimica et Cosmochimica Acta</em>](https://doi.org/10.1016/j.gca.2025.02.003).</strong>
 
 <strong>Dec 16, 2024: Ji won the 2025 Rice Space Institute Center for Planetary Origins to Habitability (CPO2H) graduate fellowship!</strong>
 
