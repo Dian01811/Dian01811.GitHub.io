@@ -131,6 +131,8 @@ title: Dian Ji (吉点)
 
 <font size=5><strong>News</strong></font>
 
+<strong>Apr 27, 2026: Ji co-authored a paper on the formation of highly evolved silicic magmas through incremental differentiation and melt extraction across interconnected transcrustal magma systems was accepted for publication in <em>Lithos</em>.</strong>
+
 <strong>Mar 24, 2026: [Ji’s paper about the effects of magmatic recharge on lunar volatile budget was accepted for publication in <em>Geochimica et Cosmochimia Acta</em>](https://doi.org/10.1016/j.gca.2026.03.042)!</strong>
 
 <strong>Dec 16, 2025: Ji gave a poster presentation on [the impact of magmatic recharge on lunar mantle water budget](https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1898295)</strong> at the 2025 AGU Annual Meeting.
