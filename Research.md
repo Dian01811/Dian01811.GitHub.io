@@ -88,8 +88,6 @@ description: Research
   
 <font size=4>&emsp;&emsp;This project is aimed at understanding the partitioning behavior between apatite and silicate melts, and developing predictive models through a lens of high temperature and pressure experiments. We determine the effect of equilibrium temperature on the trace elements partitioning in apatite and analyze the partition coefficient between silicate melts and synthetic different end-member apatite (FlAp, OHAp and ClAp) to test the effect of X-site (F, OH, Cl) occupancy. We will build predictive models to calculate the partition coefficients of trace elements between apatite and silicate melts. In addition, a series of experiments with constant initial composition but different metal buffers in piston cylinder apparatus will be conducted to characterize the Eu anomaly of apatite under different oxygen fugacities. <a href="https://dian01811.github.io/files/Ji_GCA_2024.pdf">[pdf]</a></font>
 
-
-
 <div style="clear: both;"></div>
 
 <br><br>
@@ -113,3 +111,12 @@ description: Research
   
 <font size=4>&emsp;&emsp;Large volumes of early Cretaceous adakitic rocks crop out in northeast China. In this paper, we summarize their spatial-temporal distribution and geochemical characteristics, which indicate significant Phanerozoic crust growth in NE China. Based on their geochemistry, these adakitic rocks are mainly derived from partial melting of juvenile lower crust. We interpret the melting to have resulted from extension and associated delamination and we thus propose a new two-stage convergent bidirectional subduction model. <a href="https://dian01811.github.io/files/Ji_IGR_2020.pdf">[pdf]</a></font>
 
+<div style="clear: both;"></div>
+
+<br><br>
+
+<font size=5>Extreme magmatic differentiation and silicic magmatism without low melt fractions</font>
+ 
+ [Lee, Zhang, Keller, Zhang, **Ji**, Mou, <em>Lithos</em> (2026)](https://doi.org/10.1016/j.lithos.2026.108581)
+
+<div style="clear: both;"></div>
