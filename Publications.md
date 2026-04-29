@@ -7,7 +7,7 @@ description: Publications
 --- 
 **Peer-Reviewed Articles**
 
-(8)	C.T. Lee, J. Zhang, D. Keller, Y. Zhang, **D. Ji**, J. Mou, (2026) The enigma of silicic magmatism and the missing cumulates: extreme magmatic differentiation without low melt fractions. <em>Lithos</em>. [doi.org/10.1016/j.lithos.2026.108581](https://doi.org/10.1016/j.lithos.2026.108581)<br>
+(8)	C.T. Lee, J. Zhang, D. Keller, Y. Zhang, **D. Ji**, J. Mou, (2026) Extreme magmatic differentiation and silicic magmatism without low melt fractions. <em>Lithos</em>. [doi.org/10.1016/j.lithos.2026.108581](https://doi.org/10.1016/j.lithos.2026.108581)<br>
 
 (7) **D. Ji**, R. Dasgupta, C.T. Lee, (2026) The effects of magmatic recharge on primary lunar melt compositions: Implications for the water and other volatile budget of the Moon. <em>Geochimica et Cosmochimica Acta</em>. [doi.org/10.1016/j.gca.2026.03.042](https://doi.org/10.1016/j.gca.2026.03.042)<br>
 
