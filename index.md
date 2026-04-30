@@ -131,7 +131,7 @@ title: Dian Ji (吉点)
 
 <font size=5><strong>News</strong></font>
 
-<strong>Apr 27, 2026: Ji co-authored, under the leadership of [Dr. Cin-Ty Lee](https://profiles.rice.edu/faculty/cin-ty-lee), a paper on the formation of highly evolved silicic magmas through incremental differentiation and melt extraction across interconnected transcrustal magma systems, accepted for publication in [<em>Lithos</em>](https://doi.org/10.1016/j.lithos.2026.108581).</strong>
+<strong>Apr 27, 2026: Ji co-authored a new study led by [Dr. Cin-Ty Lee](https://profiles.rice.edu/faculty/cin-ty-lee), accepted for publication in the [<em>Lithos</em>](https://doi.org/10.1016/j.lithos.2026.108581).</strong> The research investigates the formation of highly evolved silicic magmas through incremental differentiation and melt extraction within interconnected transcrustal systems.
 
 <strong>Mar 24, 2026: [Ji’s paper about the effects of magmatic recharge on lunar volatile budget was accepted for publication in <em>Geochimica et Cosmochimia Acta</em>](https://doi.org/10.1016/j.gca.2026.03.042)!</strong>
 
