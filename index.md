@@ -131,6 +131,8 @@ title: Dian Ji (吉点)
 
 <font size=5><strong>News</strong></font>
 
+<strong>May 21, 2026: Ji’s paper about the source lithology of the young lunar magmatism was accepted for publication in <em>Earth and Planetary Science Letters</em>!</strong>
+
 <strong>May 14, 2026: Ji gave a poster presentation </strong> at the 2026 Inner Solar System Workshop. He also served as the Session Chair of [<em>Volatiles, Differentiation, and Evolution of Rocky Bodies</em>](https://www.origins2habitability.rice.edu/program).
 
 <strong>Apr 27, 2026: Ji co-authored a new study led by [Dr. Cin-Ty Lee](https://profiles.rice.edu/faculty/cin-ty-lee), accepted for publication in [<em>Lithos</em>](https://doi.org/10.1016/j.lithos.2026.108581).</strong> The research investigates the formation of highly evolved silicic magmas through incremental differentiation and melt extraction within interconnected transcrustal systems.
