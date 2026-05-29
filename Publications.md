@@ -7,7 +7,7 @@ description: Publications
 --- 
 **Peer-Reviewed Articles**
 
-(9) **D. Ji**, R. Dasgupta, (2026) Garnet pyroxenite at mid-mantle depths as a source of young lunar magmatism. <em>Earth and Planetary Science Letter</em>. accepted
+(9) **D. Ji**, R. Dasgupta, (2026) Garnet pyroxenite at mid-mantle depths as a source of young lunar magmatism. <em>Earth and Planetary Science Letter</em>. [doi.org/10.1016/j.epsl.2026.120133](https://doi.org/10.1016/j.epsl.2026.120133)
 
 (8)	C.T. Lee, J. Zhang, D. Keller, Y. Zhang, **D. Ji**, J. Mou, (2026) Extreme magmatic differentiation and silicic magmatism without low melt fractions. <em>Lithos</em>. [doi.org/10.1016/j.lithos.2026.108581](https://doi.org/10.1016/j.lithos.2026.108581)<br>
 
