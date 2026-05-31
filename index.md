@@ -137,13 +137,15 @@ title: Dian Ji (吉点)
 
 <strong>Apr 27, 2026: Ji co-authored a new study led by [Dr. Cin-Ty Lee](https://profiles.rice.edu/faculty/cin-ty-lee), accepted for publication in [<em>Lithos</em>](https://doi.org/10.1016/j.lithos.2026.108581).</strong> The research investigates the formation of highly evolved silicic magmas through incremental differentiation and melt extraction within interconnected transcrustal systems.
 
+<strong>Apr 1, 2026: Ji will mentor Rice University undergraduate Naidhruv Ananth Iyer in trace element partitioning experiments over the coming year!</strong> Welcome, Naidhruv!
+
 <strong>Mar 24, 2026: [Ji’s paper about the effects of magmatic recharge on lunar volatile budget was accepted for publication in <em>Geochimica et Cosmochimia Acta</em>](https://doi.org/10.1016/j.gca.2026.03.042)!</strong>
 
 <strong>Dec 16, 2025: Ji gave a poster presentation on [the impact of magmatic recharge on lunar mantle water budget](https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1898295)</strong> at the 2025 AGU Annual Meeting.
 
 <strong>Nov 19, 2025: Ji gave a talk on Early Differentiation of the Moon </strong> in the professional development series for K-12 science teachers organized by The Department of Earth, Environmental and Planetary Sciences at Rice University and Houston Independent School District.
 
-<strong>Jul 10, 2025: Ji will supervise a high-school intern, Denim-Leenox Sasser, on high temperature experiments this Summer!</strong> Welcome, Denim!
+<strong>Jul 10, 2025: Ji will supervise a high-school intern, Denim-Leenox Sasser, on high temperature experiments regarding the mantle lithology of young lunar basalts this Summer!</strong> Welcome, Denim!
 
 <strong>May 9, 2025: Ji was awarded the [Torkild Reiber Award](https://eeps.rice.edu/news/2025/2025-faculty-staff-and-student-awards)</strong> by the Department of Earth, Environmental and Planetary Sciences, Rice University.
 
