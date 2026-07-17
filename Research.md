@@ -92,7 +92,7 @@ description: Research
 
 <br><br>
 
-<font size=5>A predictive model for divalent element partitioning between clinopyroxene and basaltic melt and a europium-in-plagioclase-clinopyroxene oxybarometer for cumulate rocks.</font>
+<font size=5>A predictive model for divalent element partitioning between clinopyroxene and basaltic melt and a europium-in-plagioclase-clinopyroxene oxybarometer for cumulate rock</font>
  
 [Dygert, **Ji**, Etheridge, <em>Geochimica et Cosmochimica Acta</em> (2025)](https://doi.org/10.1016/j.gca.2025.02.003)
  
