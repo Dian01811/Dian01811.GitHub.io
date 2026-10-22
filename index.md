@@ -16,7 +16,7 @@ title: Dian Ji (吉点)
       <img src="https://dian01811.github.io/files/LPSC.jpg" alt="Image 2">
     </div>
     <div class="carousel-item">
-      <div class="image-title">Field trip in North Carolina</div>
+      <div class="image-title">Mantle xenolith collecting, Kilbourne Hole, NM</div>
       <img src="https://dian01811.github.io/files/field trip.jpg" alt="Image 3">
     </div>
   </div>
